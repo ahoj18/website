@@ -38,5 +38,5 @@ jobs:
         run: |
           git config --global user.email "93623831+TheeDeer0@users.noreply.github.com"
           git config --global user.name "TheeDeer0"
-          yarn install --frozen-lockfile
+          yarn install
           yarn deploy
