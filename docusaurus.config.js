@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://scp-f.github.io',
+  title: 'SCP-F | Network',
+  tagline: 'SCP Foundation Network | An Internal Network',
+  url: 'https://scpf.network/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -46,7 +46,7 @@ const config = {
       navbar: {
         title: 'SCP-F',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'SCP-F',
           src: 'img/Main.png',
         },
         items: [
