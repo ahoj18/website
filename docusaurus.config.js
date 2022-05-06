@@ -8,15 +8,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://scpf.network',
+  url: 'https://scp-f.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'scp-f', // Usually your GitHub org/user name.
+  organizationName: 'SCP-F', // Usually your GitHub org/user name.
   projectName: 'Network', // Usually your repo name.
   trailingSlash: false,
-  
+
   presets: [
     [
       'classic',
