@@ -20,7 +20,7 @@ The Code of Ethics is the highest authoritative document which holds both inform
 ---
 
 :::info
-Only the following groups are exempt from the Code of Ethics; <Highlight color="#686868">**Founders**</Highlight>, <Highlight color="#070707">**O5 Council**</Highlight>, and <Highlight color="#289ea8">**Sr. Developers**</Highlight>
+Only the following groups are exempt from the Code of Ethics; <Highlight color="#686868">**Founders**</Highlight>, and <Highlight color="#070707">**O5 Council**</Highlight>
 
 *Though while these groups are* ***exempt*** *from the Code of Ethics, excessive misbehavior should be reported to individuals superiors.* ***Reports of misbehavior will be handled on a case-by-case basis.***
 :::
