@@ -4,33 +4,30 @@ import styles from './styles.module.css';
 
 
 const FeatureList = [
-  {
-    title: 'BLAHH',
-    Svg: require('').default,
-    description: (
-      <>
-        BLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHH
-      </>
-    ),
-  },
-  {
-    title: 'BLAHHBLAHHBLAHH',
-    Svg: require('').default,
-    description: (
-      <>
-        BLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHH
-      </>
-    ),
-  },
-  {
-    title: 'BLAHH',
-    Svg: require('').default,
-    description: (
-      <>
-        BLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHH
-      </>
-    ),
-  },
+  // {
+  //   title: 'BLAHH',
+  //   description: (
+  //     <>
+  //       BLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHH
+  //     </>
+  //   ),
+  // },
+  // {
+  //   title: 'BLAHHBLAHHBLAHH',
+  //   description: (
+  //     <>
+  //       BLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHH
+  //     </>
+  //   ),
+  // },
+  // {
+  //   title: 'BLAHH',
+  //   description: (
+  //     <>
+  //       BLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHHBLAHH
+  //     </>
+  //   ),
+  // },
 ];
 
 function Feature({Svg, title, description}) {

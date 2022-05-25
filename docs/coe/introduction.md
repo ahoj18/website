@@ -3,6 +3,10 @@ sidebar_position: 1
 title: Introduction
 ---
 
+:::info
+The Code of Ethics is still being written, and as such the layout, structure, and wording may change!
+:::
+
 export const Highlight = ({children, color}) => (
 <span
 style={{
