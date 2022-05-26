@@ -3,9 +3,6 @@ sidebar_position: 2
 title: On Site Policies
 ---
 
-:::info
-The Code of Ethics is still being written, and as such the layout, structure, and wording may change!
-:::
 
 - Foundation Personnel, regardless of rank or department are allowed to interact with anomalous entities (SCP’s) in a respectful manner. Intentionally angering a sentient anomalous entity will be treated as a rogue.
 - Foundation Personnel must not evade or elude law enforcement agencies, or combative personnel.

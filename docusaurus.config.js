@@ -119,6 +119,14 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} SCP-F, Inc. Built with Docusaurus.`,
       },
+      announcementBar: {
+        id: 'announce_bar',
+        content:
+          'The Code of Ethics is still being written, and as such the layout, structure and wording may change!',
+        backgroundColor: '#0000001a',
+        textColor: '#5f98c0',
+        isCloseable: true,
+      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,

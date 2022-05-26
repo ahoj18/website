@@ -3,9 +3,6 @@ sidebar_position: 1
 title: Universal Policies
 ---
 
-:::info
-The Code of Ethics is still being written, and as such the layout, structure, and wording may change!
-:::
 
 - Foundation Personnel, regardless of rank, are expected to maintain good behavior. Respect, professionalism, and good conduct at all times.
 - All personnel are obligated to follow the orders of any Security Class 4+ or any authoritative body of the Foundation.

@@ -3,10 +3,6 @@ sidebar_position: 2
 title: Security Clearances
 ---
 
-:::info
-The Code of Ethics is still being written, and as such the layout, structure, and wording may change!
-:::
-
 export const Highlight = ({children, color}) => (
 <span
 style={{
