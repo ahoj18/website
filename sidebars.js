@@ -35,6 +35,7 @@ const sidebars = {
       items: [
         'coe/introduction',
         'coe/security_clearances',
+        'coe/chain_of_command',
         {
           type: 'category',
           label: 'Conduct Policies',
