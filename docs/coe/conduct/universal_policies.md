@@ -3,6 +3,19 @@ sidebar_position: 1
 title: Universal Policies
 ---
 
+export const Highlight = ({children, color}) => (
+<span
+style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+{children}
+</span>
+);
+
+## General Policies
 
 - Foundation Personnel, regardless of rank, are expected to maintain good behavior. Respect, professionalism, and good conduct at all times.
 - All personnel are obligated to follow the orders of any Security Class 4+ or any authoritative body of the Foundation.
@@ -11,3 +24,11 @@ title: Universal Policies
 - Alternative accounts, while allowed, must not hold a Foundation Security Clearance.
     - All major infractions made on an alternate account are punishable to the primary account as well. 
     - Alternate accounts must be registered to the primary account using the Terminal bot. 
+
+## Personnel Rights
+
+- Personnel have the right to feel secure and safe from discreimination and abuse.
+- Personnel have the right to bring forward concerns to theri superiors without fear of repercussions.
+- Personnel have the right to a non-toxic working environment.
+
+All personnel who feel their rights have been infringed upon are encouraged to contact the relevant internal authorities.
