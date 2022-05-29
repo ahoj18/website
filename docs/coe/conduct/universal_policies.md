@@ -27,8 +27,8 @@ style={{
 
 ## Personnel Rights
 
-- Personnel have the right to feel secure and safe from discreimination and abuse.
-- Personnel have the right to bring forward concerns to theri superiors without fear of repercussions.
+- Personnel have the right to feel secure and safe from discrimination and abuse.
+- Personnel have the right to bring forward concerns to their superiors without fear of repercussions.
 - Personnel have the right to a non-toxic working environment.
 
 All personnel who feel their rights have been infringed upon are encouraged to contact the relevant internal authorities.
