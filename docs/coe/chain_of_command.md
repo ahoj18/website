@@ -33,7 +33,7 @@ Is obtained by being the highest rank in the department you reside in, as well a
 An SC-3 is second-in-command of their department. They assist in the daily operations.
 Can be obtained from achieving certain ranks in the department you reside.
 - Security Department: **Security Inspector**
-- Scientific department: **Senior Researcher**
+- Scientific department: **Research Supervisor**
 - Mobile Task Forces: **Task Force Captain**
 
 ## <Highlight color="#3e8c48">Security Class 2</Highlight>
