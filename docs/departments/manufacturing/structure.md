@@ -47,6 +47,6 @@ Junior Developers are members of the department who dedicate less time to projec
 
 Ducklings of the department. Probationary Developers are finding their feet within the department, as well as being consistently reviewed by MaD Command to ensure they'll benefit the team.
 
-:::Info 
+:::info 
 The Quality Assurance role within the Manufacturing Department is considered an external role, and as such does not fit within the structure of the Manufacturing Department.
 ::: 
