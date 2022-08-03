@@ -21,7 +21,7 @@ The Manufacturing Department is a major load bearing pillar within the community
 Each and every member of the Manufacturing Department has an obligation to the community and responsibility to ensure we upkeep our promises to the community while also maintaining good relation.
 
 :::info
-The Security Department is a **Special** department. *Meaning it does not count to department quota.*
+The Manufacturing Department is a **Special** department. *Meaning it does not count to department quota.*
 :::
 
 :::warning
