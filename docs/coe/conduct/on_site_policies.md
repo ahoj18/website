@@ -43,7 +43,7 @@ The following are only enforceable on Foundation owned assets; i.e a site/facili
     - Security Class 4 personnel are obligated to follow the orders of Site Directors, Installation Directors and O5 Councilors.
 - Alternative accounts, while allowed, must not hold a Foundation Security Clearance.
     - All major infractions made on alternate accounts are punishable to the primary account as well.
-- Foundation Personnel, regardless of rank or department are allowed to interact with anomalous entities (SCPs) in a respectful manner. Intentionally angering a sentient anomalous entity will be treated as a rogue.
+- Foundation Personnel, regardless of rank or department must interact with anomalous entities (SCPs) in a respectful manner. Intentionally angering a sentient anomalous entity will be treated as a rogue.
 - Foundation Personnel must not evade or elude law enforcement agencies, or combative personnel.
     - Evasion is defined by; attempting/succeeding in running away from authoritative personnel after committing a crime or after a reasonable attempt to contact an individual.
     - Leaving the group in order to avoid a Class E sentence is classified as evasion.
