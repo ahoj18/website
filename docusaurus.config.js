@@ -62,7 +62,6 @@ const config = {
             position: 'left',
             label: 'Departments',
           },
-          {to: '/blog', label: 'Dev Blog', position: 'left'},
           {
             href: 'https://discord.gg/bvgf4ewS4z',
             label: 'Discord',
