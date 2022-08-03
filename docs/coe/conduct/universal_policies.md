@@ -23,7 +23,6 @@ style={{
     - Authoritative bodies of the Foundation include the Ethics Committee, Security Department, Mobile Task Forces, and their subdivisions.
 - Alternative accounts, while allowed, must not hold a Foundation Security Clearance.
     - All major infractions made on an alternate account are punishable to the primary account as well. 
-    - Alternate accounts must be registered to the primary account using the Terminal bot. 
 
 ## Personnel Rights
 
