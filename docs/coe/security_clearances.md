@@ -29,14 +29,12 @@ Granted to personnel who aid in running a department acting as leaders within th
 ## <Highlight color="#3e8c48">Security Class 2,</Highlight> "Restricted"
 Granted to well-integrated individuals within their respective departments.
 
-:::info
-This Security Clearance is automatically granted to individuals who have achieved the first non-entry rank within a department. 
-:::
+
 ## <Highlight color="#5dcd6b">Security Class 1,</Highlight> "Confidential"
 Granted to fairly new individuals within their respective departments.
 
 :::info
-This Security clearance is automatically granted to individuals within a department regardless of rank
+This Security Clearance is automatically granted to individuals who have achieved the first non-entry rank within a department. 
 :::
 ## <Highlight color="#51bd9a">Security Class 0,</Highlight> "Public"
 Granted to new members of the Foundation following the approval of their entry application.
