@@ -1,41 +1,5 @@
-# Website
+# Paragon Code of Ethics
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Welcome to the Paragon Code of Ethics repository.
 
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Please submit a pull request with any changes you have, ensure you follow our style of formatting, and only offer a pull request if you are authorized to commit those changes, or if it is to fix existing issues.
