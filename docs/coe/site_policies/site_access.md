@@ -29,7 +29,7 @@ style={{
 - Sublevel-5 designed in majority to contain Class - D personnel from the rest of the Foundation. Class - D personnel found outside of the CDC zone of Sublevel-5 without proper escorting units are to be terminated by combative personnel. If Class - D engage on civil personnel, the civil personnel have the right to act in self defense.
 
 ### Sublevel-6: 
-- Sublevel-6, designed to contain all SCP anomalies with-in the facility, is the most secured floor from them all. Sublevel-6 is to only be accessed by combative personnel with reasonable intent. 
+- Sublevel-6, designed to contain all SCP anomalies with-in the facility, is the most secured floor from them all. Sublevel-6 can be accessed by Foundation personnel, up until Sector 3 (containment sphere entrance). Only combative personnel may pass the security checkpoint with reasonable intent.
   - Reasonable intent includes actions of patrolling, responding to a potential call of trespassing, SCP recontainment, locating breached SCPs, and escorting personnel that have an assigned task or job to complete whilst on their divisional/departmental team. Foundation Personnel of security class zero to four may not enter even with combative escort.
 
 ### Notes
