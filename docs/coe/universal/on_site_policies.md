@@ -42,7 +42,7 @@ Authoritative bodies of the Foundation refer to the <Highlight color="#3d9c1a">E
   - Leaving the group in order to avoid a Class E sentence is classified as evasion. 
 - [2.52] Foundation Personnel are obligated to identify themselves when requested by an SC4+, or authoritative body. 
 
-## [2.6] Trespassing - Minor | <Highlight color="#c29429">Medium Infraction</Highlight>;
+## [2.6] Trespassing - <Highlight color="#403f3d">Minor</Highlight> | <Highlight color="#c29429">Medium Infraction</Highlight>;
 - [2.61] Foundation Personnel regardless of rank are only allowed in areas where their respective keycard allows them. 
   - The severity of the infraction is dependent on the location of the trespass.
 - [2.62] Authorized personnel may be escorted into areas outside of their normal allowed areas for tests, examinations, breaches, or other noteworthy events and *must* be accompanied by the authorizing personnel and/or members of a combative department. 
