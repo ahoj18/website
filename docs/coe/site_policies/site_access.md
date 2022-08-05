@@ -70,4 +70,5 @@ style={{
 - Foundation Personnel when on the manufacturing team are permitted to spectate any activity on-site.
 - Require permission from the activity host.
 - Does not count towards the spectator limit.
+- Quality Assurance is not included in this allowance.
 
