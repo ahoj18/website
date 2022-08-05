@@ -1,6 +1,6 @@
 ---
-sidebar_position: 1
-title: Universal Policies
+sidebar_position: 5
+title: Personnel Rights
 ---
 
 export const Highlight = ({children, color}) => (
