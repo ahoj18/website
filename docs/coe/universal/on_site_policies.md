@@ -21,8 +21,9 @@ style={{
 Authoritative bodies of the Foundation refer to the <Highlight color="#3d9c1a">Ethics Committee</Highlight>, <Highlight color="#7a7d80">Security Department</Highlight>, <Highlight color="#3269a8">Mobile Task Forces</Highlight> and their subdivisions.
 :::
 
-## [2.1] Decorum - <Highlight color="#403f3d">Minor Infraction</Highlight>;
+## [2.1] Decorum - <Highlight color="#403f3d">Minor</Highlight> | <Highlight color="#c29429">Medium</Highlight> Infraction;
 - [2.11] Foundation personnel, regardless of rank, are expected to maintain good behavior. Respect, professionalism, and good conduct is essential to keeping a fun and immersive environment.
+  - [2.11.1] Assault includes inflicting damage, or intent to infact damage against other foundation personnel, such as punching or shooting them.
 
 ## [2.2] Compliance with Command - <Highlight color="#403f3d">Minor Infraction</Highlight>;
 - [2.21] All personnel are obligated to follow the orders of any Security Class 4+ or any authoritative body of the Foundation. 
