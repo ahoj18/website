@@ -25,13 +25,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/SCP-F/Network/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/SCP-F/Network/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -67,6 +67,12 @@ const config = {
             docId: 'paragon/introduction',
             position: 'left',
             label: 'Paragon',
+          },
+          {
+            type: 'doc',
+            docId: 'science/introduction',
+            position: 'left',
+            label: 'Science Hub',
           },
           {
             href: 'https://discord.gg/bvgf4ewS4z',
