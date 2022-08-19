@@ -70,5 +70,6 @@ Authoritative bodies of the Foundation refer to the <Highlight color="#3d9c1a">E
   - Windows/glass, lights, panels, powerboxes, doors, etc.
 
 ## [2.10] Robbery / Item Theft - <Highlight color="#c29429">Medium Infraction</Highlight>;
-- [2.10.1] Personnel are not permitted to loot dead bodies of their co-workers, hostiles or any kind of personnel (including CD’s).
-- [2.10.2] Personnel may not loot illegal or unauthorized items that spawn around the map, such as higher clearance keycards.
+- [2.101] Personnel are not permitted to loot dead bodies of their co-workers, hostiles or any kind of personnel (including CD’s).
+  - [2.101.1] Combative personnel are permitted to collect weapons from fallen personnel while within the confines of the CDC in order to prevent them from falling into the hands of CD's.
+- [2.102] Personnel may not loot illegal or unauthorized items that spawn around the map, such as higher clearance keycards.
