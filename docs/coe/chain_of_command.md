@@ -49,7 +49,7 @@ Can be obtained from achieving certain ranks in the department you reside. ***Ca
 - Security Department: **Security Sentinel**
 - Scientific department: **Researcher**
 - Mobile Task Forces: **Task Force Sergeant**
-- Ethics Committee: **Supervisory Committee Member**
+- Ethics Committee: **Committee Member**
 
 
 ## <Highlight color="#5dcd6b">Security Class 1</Highlight>
@@ -58,7 +58,7 @@ Can be obtained from achieving certain ranks in the department you reside. ***Ca
 - Security Department: **Security Junior**
 - Scientific department: **Junior Researcher**
 - Mobile Task Forces: **Task Force Operative**
-- Ethics Committee: **Committee Member**
+- Ethics Committee: **Probationary Committee Member**
 
 
 ## <Highlight color="#51bd9a">Security Class 0</Highlight>
