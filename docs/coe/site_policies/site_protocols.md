@@ -39,4 +39,4 @@ The Normal Activities Protocol is the facility's neutral status that is in effec
 This protocol is used as a last resort if a Tier III riot has been prolonged for 20+ minutes. Personnel are to equip themselves with the publicly provided gas masks and are to remain on Sublevel-4 behind the blast door.
 
 ## Blackout 
-This protocol will be initiated when a Tier III riot has been prolonged for 10+ minutes. This protocol will be deactivated when the Class-D Containment is back under Security Department control. Tier III riot procedures apply during all blackouts. 
+This protocol is only to be initiated by foundation senior command when deemed necessary.
