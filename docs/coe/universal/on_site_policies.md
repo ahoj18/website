@@ -36,6 +36,10 @@ Authoritative bodies of the Foundation refer to the <Highlight color="#3d9c1a">E
 
 ## [2.4] SCP Interaction - <Highlight color="#c29429">Medium Infraction</Highlight>;
 - [2.41] Foundation Personnel, regardless of rank or department, must interact with anomalous entities (SCP’s) in a respectful manner. Intentionally angering a sentient anomalous entity will be treated as a rogue attempt.
+- [2.42] Foundation Personnel can not intentionally get themselves infected with an SCP/Virus. This includes intentionally walking into infected SCP instances or infectious SCPs.
+- [2.43] Foundation Personnel are permitted to work to spread SCP infections, once already infected from circumstances that do not violate code 2.42.
+  - [2.43.1] When infected with an SCP or virus Foundation Personnel are not permitted to spread the SCP into team spawns.
+- [2.44] Foundation Personnel are not permitted to breach or remove SCPs from their containment chamber or housing unless they are acting within official capacities of their departmental handbooks.
 
 ## [2.5] Compliance with authorities - <Highlight color="#c29429">Medium Infraction</Highlight>;
 - [2.51]  Foundation Personnel must not evade or elude Authoritative Bodies of the Foundation.
@@ -73,3 +77,10 @@ Authoritative bodies of the Foundation refer to the <Highlight color="#3d9c1a">E
 - [2.101] Personnel are not permitted to loot dead bodies of their co-workers, hostiles or any kind of personnel (including CD’s).
   - [2.101.1] Combative personnel are permitted to collect weapons from fallen personnel while within the confines of the CDC in order to prevent them from falling into the hands of CD's.
 - [2.102] Personnel may not loot illegal or unauthorized items that spawn around the map, such as higher clearance keycards.
+
+## [2.11] Obstruction of Operations - <Highlight color="#c29429">Medium Infraction</Highlight>;
+- [2.111] Foundation Personnel are not permitted to obstruct on-site operations or activities.
+  - [2.111.1] Obstruction includes but is not limited to - Deliberatly hindering, impeding, or blocking on-site operations.
+  - [2.111.2] Form of obstruction include but are not limited to - Instigating riots among Class-D, ordering hits on other Foundation Personnel, engaging in conduct not described in Foundation code or Departmental Handbooks, preventing personnel from conducting or continuing to conduct their business.
+  - [2.111.3] Foundation Personnel are not permitted to obstruct operations by intentionally making them more difficult.
+  - [2.111.4] Foundation Personnel are not permitted to act outside tha capacities of their current team.

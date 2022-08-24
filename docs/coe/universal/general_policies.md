@@ -28,3 +28,6 @@ style={{
 - [3.33] Illegal actions such as doxxing, ddosing, threatening or stalking will result in a complete removal from the Foundation.
 - [3.34] Discrimination based on race, ethnicity, religion, beliefs or any other personal matter will result in heavy consequence.
     - Overall, the SCP-F is meant to be a fun and enjoyable roleplay game for everyone, those who wish to cause a disturbance to it or any of its members through serious actions, will be dealt with.
+
+## [3.3] Loopholing Foundation Code - Medium Infraction;
+- [3.31] Foundation Personnel are not permitted to utilize gaps, restrictions, or requirements described within the Code of Ethics to their personal advantage by attempting to avoid reprimand for their actions.
