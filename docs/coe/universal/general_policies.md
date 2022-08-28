@@ -31,3 +31,11 @@ style={{
 
 ## [3.3] Loopholing Foundation Code - Medium Infraction;
 - [3.31] Foundation Personnel are not permitted to utilize gaps, restrictions, or requirements described within the Code of Ethics to their personal advantage by attempting to avoid reprimand for their actions.
+
+## [3.4] Rogue Misconduct - Severe Infraction
+- [3.41] Personnel who are charged with Rogue Misconduct are eligible for a 24 hour ban to allow for the Ethics Committee to properly process the report. Rogue misconduct is defined as;
+    - [3.41.1] Discharging a firearm at or near Foundation Personnel with the intent to terminate or injure them.
+    - [3.41.2] Intentionally causing a breach of hostile or infectious SCPs.
+    - [3.41.3] Repeated violations of Section 2.6 (Trespassing) in a short amount of time.
+        - [3.41.3.1] The violator in question must have been told by a member of authority previously that they were in violation of Section 2.6.
+    - [3.41.4] Personnel may also be charged with rogue misconduct if it is determined that their intent in the commission of other violations is to ruin the gameplay for others on-site, especially the site at large, or otherwise inflict damage to the Foundation or its members in a malicious and intentional manner.
