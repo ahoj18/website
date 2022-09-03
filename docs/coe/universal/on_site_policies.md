@@ -82,4 +82,4 @@ Authoritative bodies of the Foundation refer to the <Highlight color="#3d9c1a">E
   - [2.101.1] Obstruction includes but is not limited to - Deliberatly hindering, impeding, or blocking on-site operations.
   - [2.101.2] Form of obstruction include but are not limited to - Instigating riots among Class-D, ordering hits on other Foundation Personnel, engaging in conduct not described in Foundation code or Departmental Handbooks, preventing personnel from conducting or continuing to conduct their business.
   - [2.101.3] Foundation Personnel are not permitted to obstruct operations by intentionally making them more difficult.
-  - [2.101.4] Foundation Personnel are not permitted to act outside tha capacities of their current team.
+  - [2.101.4] Foundation Personnel are not permitted to act outside the capacities of their current team.
