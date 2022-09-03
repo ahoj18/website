@@ -25,8 +25,8 @@ style={{
 ## [3.2] Real-world actions - Severe Infraction;
 - [3.21] Personnel may not go out of their way to harass, bully, torment or make fun of personnel.
 - [3.22] Personnel may not show extreme toxicity or slander towards others and their departments.
-- [3.33] Illegal actions such as doxxing, ddosing, threatening or stalking will result in a complete removal from the Foundation.
-- [3.34] Discrimination based on race, ethnicity, religion, beliefs or any other personal matter will result in heavy consequence.
+- [3.23] Illegal actions such as doxxing, ddosing, threatening or stalking will result in a complete removal from the Foundation.
+- [3.24] Discrimination based on race, ethnicity, religion, beliefs or any other personal matter will result in heavy consequence.
     - Overall, the SCP-F is meant to be a fun and enjoyable roleplay game for everyone, those who wish to cause a disturbance to it or any of its members through serious actions, will be dealt with.
 
 ## [3.3] Loopholing Foundation Code - Medium Infraction;
