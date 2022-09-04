@@ -11,9 +11,9 @@ No guidelines overrule the Code of Ethics, the CoE (Code of Ethics) is the highe
 
 ## Departmental Limits
 Departments are separated into three categories. 
-- Major
-- Minor
-- Miscellaneous
+    - Major
+    - Minor
+    - Miscellaneous
 The following outlines the maximum limits for Foundation Personnel as to how many departments they may be in at any given time.
 - 1 Major and 1 Minor Department.
 - 2 Minor Departments.
