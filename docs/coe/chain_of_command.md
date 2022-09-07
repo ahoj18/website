@@ -46,7 +46,7 @@ Can be obtained from achieving certain ranks in the department you reside. ***Ca
 ## <Highlight color="#3e8c48">Security Class 2</Highlight>
 Personnel assigned to SC-2 are considered mid-ranking positions of their assigned department.
 Can be obtained from achieving certain ranks in the department you reside. ***Cannot be applied for***
-- Security Department: **Security Sentinel**
+- Security Department: **Security Guard**
 - Scientific department: **Researcher**
 - Mobile Task Forces: **Task Force Sergeant**
 - Ethics Committee: **Committee Member**
