@@ -20,4 +20,7 @@ The following outlines the maximum limits for Foundation Personnel as to how man
 :::tip Miscellaneous Departments
 Do note that Miscellaneous Departments do not count toward the departmental limit. You are free to be in as many Miscellaneous Departments as you wish.
 :::
+:::warning Special Note
+Due to the nature of the relationship between the Scientific Department and Anomaly Actors; members of the foundation are not permitted to be in both ScD and AA at the same time.
+:::
 ---
