@@ -5,8 +5,8 @@ sidebar_label: 2.3.8 Threatening Foundation Integrity
 ---
 
 :::info
-Punitive Standards Code:<TextColor color="#E46C07">**2.3.8**</TextColor> <br />
-Relevant Code of Ethics Section:<TextColor color="#21E006">**3.1**</TextColor>(Classified Assets) <br />
+Punitive Standards Code:<Highlight color="#E46C07">**2.3.8**</Highlight> <br />
+Relevant Code of Ethics Section:<Highlight color="#18A304">**3.1**</Highlight>(Classified Assets) <br />
 :::
 
 Usage of this code will be authorized by Overwatch Command, await authorization before utilizing. 

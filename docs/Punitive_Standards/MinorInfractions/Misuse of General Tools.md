@@ -5,8 +5,8 @@ sidebar_label: 2.1.3 Misuse of General Tools
 ---
 
 :::info
-Punitive Standards Code:<TextColor color="#E46C07">**2.1.3**</TextColor> <br />
-Relevant Code of Ethics Section:<TextColor color="#21E006">**2.7**</TextColor>(Non-firearm General Tools) <br />
+Punitive Standards Code:<Highlight color="#E46C07">**2.1.3**</Highlight> <br />
+Relevant Code of Ethics Section:<Highlight color="#18A304">**2.7**</Highlight>(Non-firearm General Tools) <br />
 :::
 
 Misuse of General Tools is described as using a tool (that is not a firearm) in a way it was not intended to be used. When deciding on a reprimand, consider the following; what tool was misused, what
