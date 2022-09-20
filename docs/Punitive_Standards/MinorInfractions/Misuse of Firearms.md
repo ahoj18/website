@@ -5,8 +5,8 @@ sidebar_label: 2.1.4 Misuse of Firearms
 ---
 
 :::info
-Punitive Standards Code:<TextColor color="#E46C07">**2.1.4**</TextColor> <br />
-Relevant Code of Ethics Section:<TextColor color="#21E006">**2.6**</TextColor>(Firearm Regulations) <br />
+Punitive Standards Code:<Highlight color="#E46C07">**2.1.4**</Highlight> <br />
+Relevant Code of Ethics Section:<Highlight color="#18A304">**2.6**</Highlight>(Firearm Regulations) <br />
 :::
 
 Minor misuse of firearms includes all forms of brandishing; showing,

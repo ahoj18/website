@@ -5,8 +5,8 @@ sidebar_label: 2.3.3 Unauthorized use of SCPs
 ---
 
 :::info
-Punitive Standards Code:<TextColor color="#E46C07">**2.3.3**</TextColor> <br />
-Relevant Code of Ethics Section:<TextColor color="#21E006">**2.4**</TextColor>(SCP Interaction) <br />
+Punitive Standards Code:<Highlight color="#E46C07">**2.3.3**</Highlight> <br />
+Relevant Code of Ethics Section:<Highlight color="#18A304">**2.4**</Highlight>(SCP Interaction) <br />
 :::
 
 Unauthorized use of SCPs applies to all attempted and “completed” tests of SCPs that a Foundation Personnel, or ScD Researcher conducts on SCPs when they do not meet the required permissions for, do not have access to, etc. Additionally, SD and/or, MTF escorts can receive reprimands for failure to corroborate credentials - code, 2.2.2, or code 2.2.3 would be suitable. When deciding on a reprimand, consider the following; Previous infractions of this type, criminal history, watchlist status, time frame between infractions, etc. 

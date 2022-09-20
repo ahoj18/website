@@ -5,8 +5,8 @@ sidebar_label: 2.1.5 Failure to Follow Orders
 ---
 
 :::info
-Punitive Standards Code:<TextColor color="#E46C07">**2.1.5**</TextColor> <br />
-Relevant Code of Ethics Section:<TextColor color="#21E006">**2.2**</TextColor>(Compliance with Command) <br />
+Punitive Standards Code:<Highlight color="#E46C07">**2.1.5**</Highlight> <br />
+Relevant Code of Ethics Section:<Highlight color="#18A304">**2.2**</Highlight>(Compliance with Command) <br />
 :::
 
 Failure to follow orders applies when Foundation Personnel refuse to comply with reasonable and ethical commands from Security Class 4+, or an authoritative body (EC, SD, MTF). When deciding on a reprimand, consider the following; order being refused, reason for refusal, # of previous infractions of this type, time frame between infractions of this type, etc.
