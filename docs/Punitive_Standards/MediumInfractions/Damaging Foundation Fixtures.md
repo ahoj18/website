@@ -21,8 +21,7 @@ Punitive Standards Code:<Highlight color="#E46C07">**2.2.6**</Highlight> <br />
 Relevant Code of Ethics Section:<Highlight color="#18A304">**2.8**</Highlight>(Due Regard for Foundation Assets) <br />
 :::
 
-This code is utilized for intentional damage to foundation fixtures by Foundation Personnel on-site. When deciding on a reprimand, the following will be considered; <br />
-## <Highlight color="#D22B2B">ERROR</Highlight> <br />
+This code is utilized for intentional damage to foundation fixtures by Foundation Personnel on-site. The following will be considered when deciding on a reprimand; previous infractions of this type, effect of the damage, on-site status, etc.
 
 
 :::warning Standard Punishment
