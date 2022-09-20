@@ -4,6 +4,18 @@ title: 2.3.7 NSFW Content
 sidebar_label: 2.3.7 NSFW Content
 ---
 
+export const Highlight = ({children, color}) => (
+<span
+style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+{children}
+</span>
+);
+
 :::info
 Punitive Standards Code:<Highlight color="#E46C07">**2.3.7**</Highlight> <br />
 Relevant Code of Ethics Section:<Highlight color="#18A304">**3.2**</Highlight>(Real-World Actions) <br />
