@@ -4,6 +4,18 @@ title: 2.3.2 Misuse of Firearms [Shooting SC-4+]
 sidebar_label: 2.3.2 Misuse of Firearms
 ---
 
+export const Highlight = ({children, color}) => (
+<span
+style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+{children}
+</span>
+);
+
 :::info
 Punitive Standards Code:<Highlight color="#E46C07">**2.3.2**</Highlight> <br />
 Relevant Code of Ethics Section:<Highlight color="#18A304">**2.6**</Highlight>(Firearm Regulations) <br />

@@ -4,6 +4,18 @@ title: 2.2.10 Robbery/Theft
 sidebar_label: 2.2.10 Robery/Theft
 ---
 
+export const Highlight = ({children, color}) => (
+<span
+style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+{children}
+</span>
+);
+
 :::info
 Punitive Standards Code:<Highlight color="#E46C07">**2.2.10**</Highlight> <br />
 Relevant Code of Ethics Section:<Highlight color="18A304">**2.9**</Highlight>(Robbery/Item Theft) <br />

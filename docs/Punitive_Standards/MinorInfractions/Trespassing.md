@@ -4,6 +4,18 @@ title: 2.1.1 Trespassing (Low level)
 sidebar_label: 2.1.1 Trespassing (Low level)
 ---
 
+export const Highlight = ({children, color}) => (
+<span
+style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+{children}
+</span>
+);
+
 :::info
 Punitive Standards Code:<Highlight color="#E46C07">**2.1.1**</Highlight> <br />
 Relevant Code of Ethics Section:<Highlight color="#18A304">**2.5**</Highlight>(Trespassing) <br />
