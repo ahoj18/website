@@ -2,6 +2,15 @@
 sidebar_position: 2
 title: FRQUENTLY ASKED QUESTIONS
 ---
+export const Center = ({children}) => (
+   <div
+      style={{
+         "textAlign": "center"
+      }}>
+      {children}
+   </div>
+)
+
 export const TextColor = ({children, color}) => (
 <span
 style={{
@@ -9,6 +18,7 @@ style={{
     }}>
 {children}
 </span>
+);
 
 **Can I spectate tests performed by members of the Scientific Department?**\
 Yes, however you must be SC-1+.
