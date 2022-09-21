@@ -1,7 +1,6 @@
 ---
 title: SCP-034 "Your Eternal Reward"
-sidebar_label: title: SCP-034 "Your Eternal Reward"
-
+sidebar_label: SCP-034 "Your Eternal Reward"
 ---
 
 export const Center = ({children}) => (
