@@ -114,8 +114,8 @@ The Green instance of SCP-131 is the shyest of the 131 instances, it is friendly
 
 ### [**Test Log 02**](https://docs.google.com/document/d/1GdM9CEdfuTMV-WJYILsGtVpWwjc8wvZjZJBWr8R8Yqg/edit)
 
-### **[**Test Log 03**](https://docs.google.com/document/d/1\_1zW4maolVD6-4j286HMz0Dovtg3gEngi\_jUqQmEXyM/edit)
+### [**Test Log 03**](https://docs.google.com/document/d/1\_1zW4maolVD6-4j286HMz0Dovtg3gEngi\_jUqQmEXyM/edit)
 
-### **[**Test Log 04**](https://docs.google.com/document/d/13iQ2ey5eEV\_HG9EdV4W9wQKSiK9stEGZMXIb7mF5eUo/edit)
+### [**Test Log 04**](https://docs.google.com/document/d/13iQ2ey5eEV\_HG9EdV4W9wQKSiK9stEGZMXIb7mF5eUo/edit)
 
-### **[**Test Log 05**](https://docs.google.com/document/d/1y1OK8BisQCVYTO-AFV51YDW8exJR7B6D8TwqNcC0Ar4/edit)
+### [**Test Log 05**](https://docs.google.com/document/d/1y1OK8BisQCVYTO-AFV51YDW8exJR7B6D8TwqNcC0Ar4/edit)

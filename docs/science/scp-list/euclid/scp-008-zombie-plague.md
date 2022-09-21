@@ -56,6 +56,7 @@ This gas will cause infected persons to become smaller or shorter than the avera
 SCP-008-3 will cause infected persons to become larger than the average human, about 9-10 feet tall. Instances who have been infected with SCP-008-3 are slower than the average person, and are easily avoided. However, the infected members do show a greater resistance to damage than the other 2 instances, and thus require more force to take down.
 </TabItem>
 </Tabs>
+
 ## Test Logs
 
 ### [Test Log 01](https://docs.google.com/document/d/1eClJVqgAt1zq3wOvv99pt4C0t-VNlGbsm2PZVGNgWac/edit)
