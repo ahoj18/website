@@ -21,7 +21,7 @@ style={{
 </span>
 );
 
-<Center><img src="https://nikkogfx.io/dxlBN3\_ne"/></Center>
+<Center><img src="https://nikkogfx.io/dxlBN3_ne"/></Center>
 <Center>SCP-034 in the hands of a Class-D</Center>
 
 <br />
