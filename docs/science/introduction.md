@@ -1,6 +1,6 @@
 ---
+sidebar_position: 1
 title: Introduction
-sidebar_label: Introduction
 ---
 
 Welcome to the Scientific Department Database. This database will hold all known information on SCPs contained at Paragon Research Institute. 

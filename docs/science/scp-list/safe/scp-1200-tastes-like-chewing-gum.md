@@ -1,6 +1,6 @@
 ---
-title: SCP-1200 "Tastes like Chewing Gum"
-sidebar_label: SCP-1200 "Tastes like Chewing Gum"
+title: SCP-1200 “Tastes Like Chewing Gum”
+sidebar_label: SCP-1200 “Tastes Like Chewing Gum”
 ---
 
 export const Center = ({children}) => (
@@ -21,16 +21,21 @@ style={{
 </span>
 );
 
-<Center><img src="https://imgur.com/Jy8jn6f.png"/></Center>
-<Center>SCP-1200 all lined up on a table</Center>
+<Center><img src="https://lh4.googleusercontent.com/hyw4sIj2TJfjvZq7LFWAkx0mAecU-N4vBf8PdeAMBqMmXCTK6A6Erkr2bPf5znSIvRoG-8ECwpvIuYMfenqurNQZaZC6WK57gyY1mQyPQxCsIkeUZ7_YlG9hg2W_FTsPU1NVaDtluQo1m4ZIXkgmKe0"/></Center>
+<Center>SCP-1200 instances lined up on table</Center>
+
+<br />
 
 :::info
 Testing Clearance: <TextColor color="#735cff">**Assistant Researcher**</TextColor> <br />
-Maximum Class-D Allowed: <TextColor color="#FF6A00">**4**</TextColor> <br />
-Location: <TextColor color="#3161c1">**Cleanrooms**</TextColor> <br />
+Cross-Testing Clearance: <TextColor color="#735cff">**Assistant Researcher**</TextColor> <br />
+Maximum Class-D Allowed: <TextColor color="#FF6A00">**7**</TextColor> <br />
+Location: <TextColor color="#3161c1">**ScD Cleanrooms**</TextColor> <br />
 :::
 
-**SCP 1200 also known as “Tastes Like Chewing Gum”** is composed of 6 known packages of anomalous gums, that if consumed, give a subject certain anomalous properties related to their name (for instance, the gum “Tastes like ghost” makes its consumer translucid, just like a ghost). These gums cannot be “carried” and are to be clicked while they lie on the table they are currently placed. As of now, no gums seem to kill/harm their consumer, although this may change with future additions/fixes.
+<br/>
+
+**SCP 1200 also known as “Tastes Like Chewing Gum”** is composed of 6 known packages of anomalous gums, that if consumed, give a subject certain anomalous properties related to their name (for instance, the gum “Tastes like ghost” makes its consumer translucent, just like a ghost). These gums cannot be “carried” and are to be clicked while they lie on the table they are currently placed. As of now, no gums seem to kill/harm their consumer.
 
 <details>
 
@@ -39,7 +44,7 @@ Location: <TextColor color="#3161c1">**Cleanrooms**</TextColor> <br />
 ![](https://imgur.com/4RKShZO.png)
 
 ```
-$ SCPF_NETWORK/PARAGON/DATABASE/SCP-131-C
+$ SCPF_NETWORK/PARAGON/DATABASE/SCP-1200-##
 $ RESULT :: NO CURRENTLY KNOWN INFORMATION
 ```
 
@@ -64,7 +69,7 @@ SCP 1200-29, also known as “Rainbow gum” is another harmless instance of 120
 ![](https://imgur.com/qEsEZfE.png)
 
 ```
-$ SCPF_NETWORK/PARAGON/DATABASE/SCP-131-C
+$ SCPF_NETWORK/PARAGON/DATABASE/SCP-1200-##
 $ RESULT :: NO CURRENTLY KNOWN INFORMATION
 ```
 
@@ -101,8 +106,20 @@ The yellow gum is another instance of SCP 1200. Subjects who consume it start to
 ![](https://imgur.com/C7zNMR7.png)
 
 ```
-$ SCPF_NETWORK/PARAGON/DATABASE/SCP-131-C
+$ SCPF_NETWORK/PARAGON/DATABASE/SCP-1200-##
 $ RESULT :: NO CURRENTLY KNOWN INFORMATION
 ```
 
 </details>
+
+## Test Logs
+
+### [Test Log 01](https://docs.google.com/document/d/1BbYBYT7GgYXa3TdULKvKGCAAeYtKHy\_b9-uNX0na9fs/edit)
+
+### [Test Log 02](https://docs.google.com/document/d/1MmqkMokFfI7f\_ir0z1cwwk1YDgls9QmZ1a-lfxW7ygs/edit)
+
+### [Test Log 03](https://docs.google.com/document/d/1XbJAXqFRxthfynI96Hinkc-4IRQ5cDCvBAyIDmSaWDM/edit)
+
+### [Test Log 04](https://docs.google.com/document/d/1APfCjHiiPlHsvqMzcQyFgeZ2yfuVFzPinYRF43j9q-8/edit)
+
+### [Test Log 05](https://docs.google.com/document/d/1WTKWPczevXZ6-ri8keZk3mKD8hvt20cadtrtyjfzBQU/edit)
