@@ -1,20 +1,39 @@
-# SCP-1208 "Waffle Master"
+---
+title: SCP-1208 "Waffle Master"
+sidebar_label: SCP-1208 "Waffle Master"
+---
 
-!["SCP-1208 on the cleanroom table"](https://lh5.googleusercontent.com/kNxR3gHz2WFVOeKDs0qgz-60Z14xIo\_p\_rWTz7MmK4v89Kk1W1rLpipR2UI4FSIzv4Olwvm\_JxqFBmAXJzaxN5hC-XkvYfIvPuh89DR9PyJCyJpOsBMbI6zNbLzEfcJ0CCfg0fs1ieh\_g-vVzNOZv\_k)
+export const Center = ({children}) => (
+   <div
+      style={{
+         "textAlign": "center"
+      }}>
+      {children}
+   </div>
+)
 
-{% hint style="danger" %}
-SCP-1208 currently does not work.
-{% endhint %}
+export const TextColor = ({children, color}) => (
+<span
+style={{
+      color: color,
+    }}>
+{children}
+</span>
+);
 
-{% hint style="info" %}
-Testing Clearance: <mark style="color:purple;">**Assistant Researcher**</mark>
+<Center><img src="https://lh5.googleusercontent.com/kNxR3gHz2WFVOeKDs0qgz-60Z14xIo_p_rWTz7MmK4v89Kk1W1rLpipR2UI4FSIzv4Olwvm_JxqFBmAXJzaxN5hC-XkvYfIvPuh89DR9PyJCyJpOsBMbI6zNbLzEfcJ0CCfg0fs1ieh_g-vVzNOZv_k"/></Center>
+<Center>SCP-2398</Center>
 
-Cross-Testing Clearance: <mark style="color:purple;">**Assistant Researcher**</mark>
+<br />
 
-Maximum Class-Ds Allowed: <mark style="color:orange;">**7**</mark>
+:::info
+Testing Clearance: <TextColor color="#735cff">**Assistant Researcher**</TextColor> <br />
+Cross-Testing Clearance: <TextColor color="#735cff">**Assistant Researcher**</TextColor> <br />
+Maximum Class-D Allowed: <TextColor color="#FF6A00">**7**</TextColor> <br />
+Location: <TextColor color="#3161c1">**ScD Cleanrooms**</TextColor> <br />
+:::
 
-Location: <mark style="color:blue;">**ScD Cleanrooms**</mark>
-{% endhint %}
+<br/>
 
 ```
 $ SCPF_NETWORK/PARAGON/DATABASE/SCP-1208

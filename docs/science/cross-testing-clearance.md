@@ -1,8 +1,9 @@
-# CROSS-TESTING CLEARANCE
+---
+title: CROSS-TESTING CLEARANCE
+sidebar_label: CROSS-TESTING CLEARANCE
+---
 
 This page will summarize cross-testing clearance requirements.
-
-
 
 **Assistant Researchers:** SCP-005, SCP-034, SCP-131, SCP-500, SCP-1200, SCP-1068, SCP-1208
 

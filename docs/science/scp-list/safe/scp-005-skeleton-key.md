@@ -1,22 +1,39 @@
-# SCP-005 "Skeleton Key"
+---
+title: SCP-005 "Skeleton Key"
+sidebar_label: SCP-005 "Skeleton Key"
+---
 
+export const Center = ({children}) => (
+   <div
+      style={{
+         "textAlign": "center"
+      }}>
+      {children}
+   </div>
+)
 
+export const TextColor = ({children, color}) => (
+<span
+style={{
+      color: color,
+    }}>
+{children}
+</span>
+);
 
-!["SCP-005 sitting on the cleanroom table"](https://lh4.googleusercontent.com/-O2jEMBwde8-4upFGNgFTDiYpsTxxcR\_y2KEKFVcJdGBTvcEcguJNzqJNuVfiWbCUo\_j1wNfViIv6J8C3vn8xm3XGf\_loyg2maMvzRvBe5iP\_xkvuM3FZq\_WoV7GqjHb3hmYRyVqAveMQaz\_XZcZcbQ)
+<Center><img src="https://lh4.googleusercontent.com/-O2jEMBwde8-4upFGNgFTDiYpsTxxcR_y2KEKFVcJdGBTvcEcguJNzqJNuVfiWbCUo_j1wNfViIv6J8C3vn8xm3XGf_loyg2maMvzRvBe5iP_xkvuM3FZq_WoV7GqjHb3hmYRyVqAveMQaz_XZcZcbQ"/></Center>
+<Center>SCP-005</Center>
 
-{% hint style="danger" %}
-SCP-005 currently does not work.
-{% endhint %}
+<br />
 
-{% hint style="info" %}
-Testing Clearance: <mark style="color:purple;">**Assistant Researcher**</mark>
+:::info
+Testing Clearance: <TextColor color="#735cff">**Assistant Researcher**</TextColor> <br />
+Cross-Testing Clearance: <TextColor color="#735cff">**Assistant Researcher**</TextColor> <br />
+Maximum Class-D Allowed: <TextColor color="#FF6A00">**7**</TextColor> <br />
+Location: <TextColor color="#3161c1">**ScD Cleanrooms**</TextColor> <br />
+:::
 
-Cross-Testing Clearance: <mark style="color:purple;">**Assistant Researcher**</mark>
-
-Maximum Class-Ds Allowed: <mark style="color:orange;">**7**</mark>
-
-Location: <mark style="color:blue;">**ScD Cleanrooms**</mark>
-{% endhint %}
+<br/>
 
 ```
 $ SCPF_NETWORK/PARAGON/DATABASE/SCP-005

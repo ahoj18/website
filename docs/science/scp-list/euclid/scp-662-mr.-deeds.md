@@ -1,19 +1,42 @@
-# SCP-662 "Mr. Deeds"
+---
+title: SCP-662 "Mr. Deeds"
+sidebar_label: SCP-662 "Mr. Deeds"
+---
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>"SCP-662, an engraved silver bell"</p></figcaption></figure>
+export const Center = ({children}) => (
+   <div
+      style={{
+         "textAlign": "center"
+      }}>
+      {children}
+   </div>
+)
 
-{% hint style="danger" %}
-8/23/2022 - May not be tested on
-{% endhint %}
+export const TextColor = ({children, color}) => (
+<span
+style={{
+      color: color,
+    }}>
+{children}
+</span>
+);
 
-{% hint style="info" %}
-Testing Clearance: <mark style="color:purple;">**Junior Researcher**</mark>
+<Center><img src="https://351808389-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FXC5suL9zFRrzn7kDaLWe%2Fuploads%2FIZPHRMNPMIzezKG0rgHM%2Fimage.png?alt=media&token=5c026b84-7177-410a-a8e2-5b6d4c3a3143"/></Center>
+<Center>SCP-662, an engraved silver bell</Center>
 
-Cross-Testing Clearance: <mark style="color:purple;">**Researcher**</mark>
+<br />
 
-Maximum Class-Ds Allowed: <mark style="color:orange;">**3**</mark>
+:::info
+Testing Clearance: <TextColor color="#735cff">**Junior Researcher**</TextColor> <br />
+Cross-Testing Clearance: <TextColor color="#735cff">**Researcher**</TextColor> <br />
+Maximum Class-D Allowed: <TextColor color="#FF6A00">**3**</TextColor> <br />
+Location: <TextColor color="#3161c1">**Cleanrooms**</TextColor> <br />
+:::
 
-Location: <mark style="color:blue;">**ScD Cleanrooms**</mark>
-{% endhint %}
 
-**SCP-662 also known as "Mr. Deeds"**, is a standard silver bell with intricate engravings. As it is made of very pure silver, it requires regular polishing to remain without tarnish. When rang a male figure by the name Mr. Deeds will appear through a door and fulfill the bell's "owner's" request(s).
+**SCP-662 also known as "Mr. Deeds"**, is a standard silver bell with intricate engravings. As it is made of very pure silver, it requires regular polishing to remain without tarnish.
+
+```
+$ SCPF_NETWORK/PARAGON/DATABASE/SCP-662
+$ RESULT :: NO CURRENTLY KNOWN INFORMATION
+```
