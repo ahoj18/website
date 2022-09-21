@@ -1,6 +1,6 @@
 ---
+sidebar_position: 2
 title: FRQUENTLY ASKED QUESTIONS
-sidebar_label: FAQ
 ---
 export const TextColor = ({children, color}) => (
 <span

@@ -1,6 +1,6 @@
 ---
+sidebar_position: 3
 title: CROSS-TESTING CLEARANCE
-sidebar_label: CROSS-TESTING CLEARANCE
 ---
 
 This page will summarize cross-testing clearance requirements.
