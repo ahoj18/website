@@ -11,7 +11,7 @@ This page will summarize cross-testing clearance requirements.
 
 **Researchers:** All Safe and Euclid SCPs
 
-**Senior Researcher:** All Safe, Euclid and Keter SCPs, if <mark style="color:purple;">Testing Clearance</mark> is met.
+**Senior Researcher:** All Safe, Euclid and Keter SCPs, if Testing Clearance is met.
 
 **Lead Researchers+:** All Safe, Euclid and Keter SCPs, no restrictions.
 
