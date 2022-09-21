@@ -8,7 +8,7 @@ style={{
       color: color,
     }}>
 {children}
-</span
+</span>
 
 **Can I spectate tests performed by members of the Scientific Department?**\
 Yes, however you must be SC-1+.
