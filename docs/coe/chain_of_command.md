@@ -29,36 +29,43 @@ The Site Director is selected by the O5 Council from the Department Directors (S
 SC-4s are the directors of their respective departments, in-charge of all operations besides their assigned overseer.
 Is obtained by being the highest rank in the department you reside in, as well as approval from the incumbent O5 Council. The respective Overseer of the department is responsible for the endorsement of the prospective Security Class 4. ***Cannot be applied for***
 - Security Department: **Security Chief**
-- Scientific department: **Chief Researcher**
-- Mobile Task Forces: **Field Chief**
+- Scientific Department: **Chief Researcher**
+- Mobile Task Forces: **Field Major**
 - Ethics Committee: **Executive Director**
+- Moderation Team: **Lead Moderator**
+- Internal Security Department: **Intelligence Director**
+- Overwatch Command - Appeals Branch: **Appeals Lead**
 
 
 ## <Highlight color="#5197dd">Security Class 3</Highlight>
 An SC-3 is second-in-command of their department. They assist in the daily operations.
 Can be obtained from achieving certain ranks in the department you reside. ***Cannot be applied for***
 - Security Department: **Security Inspector**
-- Scientific department: **Research Supervisor**
+- Scientific Department: **Research Supervisor**
 - Mobile Task Forces: **Task Force Captain**
 - Ethics Committee: **Regulatory Inspector**
+- Moderation Team: **Senior Moderator**
+- Internal Security Department: **Special Agent In Charge**
 
 
 ## <Highlight color="#3e8c48">Security Class 2</Highlight>
 Personnel assigned to SC-2 are considered mid-ranking positions of their assigned department.
 Can be obtained from achieving certain ranks in the department you reside. ***Cannot be applied for***
 - Security Department: **Security Guard**
-- Scientific department: **Researcher**
+- Scientific Department: **Researcher**
 - Mobile Task Forces: **Task Force Sergeant**
 - Ethics Committee: **Committee Member**
+- Internal Security Department: **Agent**
 
 
 ## <Highlight color="#5dcd6b">Security Class 1</Highlight>
 SC-1 consists of all members towards the starting ranks of a department/division. All SC-1 members must abide by instructions presented by SC-4+.
 Can be obtained from achieving certain ranks in the department you reside. ***Cannot be applied for***
 - Security Department: **Security Junior**
-- Scientific department: **Junior Researcher**
+- Scientific Department: **Junior Researcher**
 - Mobile Task Forces: **Task Force Operative**
 - Ethics Committee: **Probationary Committee Member**
+- Internal Security Department: **Probationary Agent**
 
 
 ## <Highlight color="#51bd9a">Security Class 0</Highlight>
