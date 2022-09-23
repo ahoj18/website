@@ -25,7 +25,8 @@ style={{
 - [1.21] All clothing must be genre and time-period specific. (No science fiction outfits, or those resembling science fiction).
 - [1.22] Clothing must not contain offensive or obscene pictures or text.
 - [1.23] Clothing must not resemble those of the <Highlight color="#c49016">Class D</Highlight> personnel. 
-- [1.24] Clothing should be formal, or business casual. 
+- [1.24] Clothing must not resemble those of the Authoritative Bodies.
+- [1.25] Clothing should be formal, or business casual. 
 
 ## [1.3] Character skin tones - Minor Infraction;
 - [1.31] <s>Unrealistic skin tones such as “really black, institutional white, and stone gray” are not allowed, with the exemption of **combative task forces**, such as the <Highlight color="#3269a8">Mobile Task Forces</Highlight> and <Highlight color="#7a7d80">Security Department</Highlight></s> <Highlight color="#F64141">Not currently in effect</Highlight>
