@@ -146,7 +146,6 @@ const sidebars = {
   science: [
     'science/introduction',
     'science/faq',
-    'science/cross_testing_clearance',
     {
       type: 'category',
       label: 'SCP List',
