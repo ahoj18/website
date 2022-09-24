@@ -68,7 +68,7 @@ Authoritative bodies of the Foundation refer to the <Highlight color="#3d9c1a">E
 - [2.75] Improper use of foundation fixtures; spamming card readers, spamming bells, etc.
 - [2.76] Improper use of personal radio;
   - [2.76.1] Radio panic button is to only be used in extenuating circumstances, i.e., being actively attacked by Class-D or rogue FP, SCP breach in your vicinity, or hostage situations.
-  - [2.76.2] Hot-micking the radio is prohibited, this includes but is not limited to, irrelavent transmissions, and extended or unnecessary discourse over radio channels.
+  - [2.76.2] Hot-miking the radio is prohibited, this includes but is not limited to, irrelevant transmissions, and extended or unnecessary discourse over radio channels.
 
 ## [2.8] Due regard for Foundation assets - <Highlight color="#c29429">Medium Infraction</Highlight>;
 - [2.81] Throughout the facility there are multiple assets and fixtures that can possibly be damaged. Foundation Personnel who intentionally damage fixtures and assets will be reprimanded. 
