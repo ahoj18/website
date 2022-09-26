@@ -18,7 +18,7 @@ style={{
 ## [3.1] Classified assets - Severe Infraction;
 - [3.11] Foundation Personnel must only access information that they have gained access to through their Security Clearance. 
 - [3.12] Foundation Personnel who gain access to classified information through proper and improper channels, are not to spread, leak, photograph, copy, replicate, or duplicate said classified information. 
-    - Foundation Personnel who come across any forms of what is stated above are to report it to the O5 council immediately. 
+    - Foundation Personnel who come across any forms of breached information are to report it to the Internal Security Department immediately, going first to agents who are online. Reporting breached information is mandatory.
     - Classified Information Includes; documentation, Discord servers, Discord channels, handbooks, and guidelines that hold a Security Clearance of ‘Secret’ or higher.
     - Foundation Personnel who steal or use assets of the SCP-F without explicit permission from the Founders, will be permanently blacklisted and then DMCA’d.
 
