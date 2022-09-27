@@ -41,7 +41,7 @@ Location: <TextColor color="#3161c1">**ScD Cleanrooms - Chamber 04**</TextColor>
 
 <summary>SCP-131-R | Red</summary>
 
-![](../../../images/SCP-131-Red.png)
+![](../../images/SCP-131-Red.png)
 
 Red can be Classified as a Leader for the Eyepods, it seems to have power over its compliances. Although it wouldn’t be described as playful it will interact with Personnel once in sight, other instances tend to assist Red, or follow it.
 
@@ -51,7 +51,7 @@ Red can be Classified as a Leader for the Eyepods, it seems to have power over i
 
 <summary>SCP-131-O | Orange</summary>
 
-![](../../../images/SCP-131-Orange.png)
+![](../../images/SCP-131-Orange.png)
 
 The orange instance of SCP 131 is out of all instances the most playful, this makes it the easiest instance to bond with (usually with compliments and playing), however, this comes at the cost of it sometimes struggling on certain tasks given by FP. Unlike the Purple instance, it seeks no harm with its playing and doesn’t seem to try to trick FP. It's rather hyperactive nature can cause it to flee from certain situations.
 
@@ -61,7 +61,7 @@ The orange instance of SCP 131 is out of all instances the most playful, this ma
 
 <summary>SCP-131-C | Cyan</summary>
 
-![](../../../images/SCP-131-Cyan.png)
+![](../../images/SCP-131-Cyan.png)
 
 SCP-131-C can be described as an extroverted, overly friendly instance. While it is cautious of those in authority, it bonds rather quickly to those who enter its containment chamber, and seems to take to Class D much better than individuals merely observing it. It's incredibly caring, empathetic ability rivals every one of the other SCP-131 instances, and one may wonder whether it prioritizes the health and safety of others over its own.
 
@@ -71,7 +71,7 @@ SCP-131-C can be described as an extroverted, overly friendly instance. While it
 
 <summary>SCP-131-DB | Denim/Dark Blue</summary>
 
-![](../../../images/SCP-131-D-DB.png)
+![](../../images/SCP-131-D-DB.png)
 
 The Dark blue instance of SCP-131 shows some common behavior aspects with the orange instance, the difference being that dark blue is more reserved and curious regarding anomalies and new experiences. It will often interact with FP (by standing on someone's shoulders for instance) and, if bonded, it will be cooperative with one’s requests.
 
@@ -92,7 +92,7 @@ $ RESULT :: [ INFORMATION REDACTED BY O5 COUNCIL ]
 
 <summary>SCP-131-P | Purple</summary>
 
-![](../../../images/SCP-131-Purple.png)
+![](../../images/SCP-131-Purple.png)
 
 The purple instance of SCP 131 has shown to be the most “problematic” of all instances. It constantly tricks FP into traps and seems to find joy in doing so, thus making it somewhat hard to cooperate. As of yet, it hasn't commit any physical harm to FP. It is recommended one to be cautious when SCP-131-P is nearby.
 
@@ -102,7 +102,7 @@ The purple instance of SCP 131 has shown to be the most “problematic” of all
 
 <summary>SCP-131-G | Green</summary>
 
-![](../../../images/SCP-131-Green.png)
+![](../../images/SCP-131-Green.png)
 
 The Green instance of SCP-131 is the shyest of the 131 instances, it is friendly towards Foundation Personnel, but has a tendency to run away, or hide from them. When put into a dangerous situation, 131-G will usually flee as soon as possible, if it is unable to flee it may hide behind or under any solid object.
 
