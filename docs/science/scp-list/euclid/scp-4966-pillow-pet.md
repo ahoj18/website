@@ -21,7 +21,7 @@ style={{
 </span>
 );
 
-<Center><img src=".../images/SCP-4966.png"/></Center>
+<Center><img src="../../../images/SCP-4966.png"/></Center>
 <Center>SCP-4966 displaying a neutral face</Center>
 
 :::danger NOTICE
