@@ -54,11 +54,11 @@ Authoritative bodies of the Foundation refer to the <Highlight color="#3d9c1a">E
 - [2.61] Non-combative Foundation Personnel who are given access to a firearm are to only use it in acts of self-defense, once the following conditions have been met;
   - A direct threat to the body or person is imminent 
   - A threat to the body or person has already occured. 
-  - Combative forces are not in the current vicinity of the situation.
-- [2.62] The following is a list of prohibited firearm usage. 
+- [2.62] A weapon can only be used in self-defense if there are no combative personnel in the vicinity of the threat.
+- [2.63] The following is a list of prohibited firearm usage. 
   - Firing a round of the weapon outside of the circumstances described above. 
   - Brandishing, revealing, holding, or showing a firearm is prohibited. 
-  - Pointing, threatning, brandishing or using a weapon in the vicinity of SC-4+ - Will result in immediate termination and/or futher consequences
+  - Pointing, threatening, brandishing or using a weapon in the vicinity of SC-4+ - Will result in immediate termination and/or further consequences
 
 ## [2.7] Non-firearm general tools - <Highlight color="#403f3d">Minor Infraction</Highlight>;
 - [2.71] Tools can either be received through in-game perks, gampasses, or departments. All tools and items must be used as intended, and outlined in department handbooks and procedures. All tools, provided by purchased perks such as Foundation supporter or gampasses or departments, can and will be taken away if improper use occurs.
