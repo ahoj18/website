@@ -146,6 +146,13 @@ const sidebars = {
   science: [
     'science/introduction',
     'science/faq',
+    'science/how_to_write_a_test_report',
+    'science/team_testing',
+    {
+      type: 'link',
+      label: 'Main Guidelines',
+      href: 'https://docs.google.com/document/d/1shk6vCUvYNv-Nyitr9_GhH5GguDjc3EC8ynAQCdxmJc/edit',
+    },
     {
       type: 'category',
       label: 'SCP List',

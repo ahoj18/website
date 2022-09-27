@@ -21,7 +21,7 @@ style={{
 </span>
 );
 
-<Center><img src="https://351808389-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FXC5suL9zFRrzn7kDaLWe%2Fuploads%2FIZPHRMNPMIzezKG0rgHM%2Fimage.png?alt=media&token=5c026b84-7177-410a-a8e2-5b6d4c3a3143"/></Center>
+<Center><img src="../../images/SCP-662.png"/></Center>
 <Center>SCP-662, an engraved silver bell</Center>
 
 <br />
@@ -34,7 +34,7 @@ Location: <TextColor color="#3161c1">**Cleanrooms**</TextColor> <br />
 :::
 
 
-**SCP-662 also known as "Mr. Deeds"**, is a standard silver bell with intricate engravings. As it is made of very pure silver, it requires regular polishing to remain without tarnish.
+**SCP-662, also known as "Mr. Deeds"**, is a standard silver bell with intricate engravings. As it is made of very pure silver, it requires regular polishing to remain without tarnish.
 
 ```
 $ SCPF_NETWORK/PARAGON/DATABASE/SCP-662

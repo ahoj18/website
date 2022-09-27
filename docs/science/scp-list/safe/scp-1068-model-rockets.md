@@ -21,7 +21,7 @@ style={{
 </span>
 );
 
-<Center><img src="https://nikkogfx.io/R2e6kiUvG"/></Center>
+<Center><img src="../../images/SCP-1068.png"/></Center>
 <Center>SCP-1068 in the hands of a Class-D Subject</Center>
 
 <br />

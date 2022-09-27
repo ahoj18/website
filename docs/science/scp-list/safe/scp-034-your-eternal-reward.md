@@ -21,8 +21,12 @@ style={{
 </span>
 );
 
-<Center><img src="https://nikkogfx.io/dxlBN3_ne"/></Center>
+<Center><img src="../../images/SCP-034.png"/></Center>
 <Center>SCP-034 in the hands of a Class-D</Center>
+
+:::danger NOTICE
+Under the orders of Facility Command, this anomaly is restricted from any experiemnts until further notice. Please check back at a later date.
+:::
 
 <br />
 
@@ -34,8 +38,6 @@ Location: <TextColor color="#3161c1">**ScD Cleanrooms**</TextColor> <br />
 :::
 
 <br/>
-
-**SCP-034 also known as "Your Eternal Reward"** is a primitively carved obsidian knife. That is all the information we currently know about SCP-034.
 
 ```
 $ SCPF_NETWORK/PARAGON/DATABASE/SCP-034

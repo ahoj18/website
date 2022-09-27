@@ -21,7 +21,7 @@ style={{
 </span>
 );
 
-<Center><img src="https://lh4.googleusercontent.com/hyw4sIj2TJfjvZq7LFWAkx0mAecU-N4vBf8PdeAMBqMmXCTK6A6Erkr2bPf5znSIvRoG-8ECwpvIuYMfenqurNQZaZC6WK57gyY1mQyPQxCsIkeUZ7_YlG9hg2W_FTsPU1NVaDtluQo1m4ZIXkgmKe0"/></Center>
+<Center><img src="../../images/SCP-1200.gif"/></Center>
 <Center>SCP-1200 instances lined up on table</Center>
 
 <br />
@@ -30,7 +30,7 @@ style={{
 Testing Clearance: <TextColor color="#735cff">**Assistant Researcher**</TextColor> <br />
 Cross-Testing Clearance: <TextColor color="#735cff">**Assistant Researcher**</TextColor> <br />
 Maximum Class-D Allowed: <TextColor color="#FF6A00">**7**</TextColor> <br />
-Location: <TextColor color="#3161c1">**ScD Cleanrooms**</TextColor> <br />
+Location: <TextColor color="#3161c1">**ScD Cleanrooms - Chamber 06**</TextColor> <br />
 :::
 
 <br/>
@@ -41,7 +41,7 @@ Location: <TextColor color="#3161c1">**ScD Cleanrooms**</TextColor> <br />
 
 <summary>SCP-1200-## "Unknown" [ White Gum ]</summary>
 
-![](https://imgur.com/4RKShZO.png)
+![](../../images/SCP-1200-White.png)
 
 ```
 $ SCPF_NETWORK/PARAGON/DATABASE/SCP-1200-##
@@ -54,11 +54,11 @@ $ RESULT :: NO CURRENTLY KNOWN INFORMATION
 
 <summary>SCP-1200-29 "Taste like Rubik's Cube" [ Rainbow Gum ]</summary>
 
-![](https://imgur.com/Bz1F5cG.gif)
+![](../../images/SCP-1200-Rainbow.gif)
 
-SCP 1200-29, also known as “Rainbow gum” is another harmless instance of 1200. If consumed, the subject will shrink and its body will deform into bizarre proportions. These effects do not damage the subject and no other physical changes aside from deformation seem to take place.
+SCP 1200-29, also known as “Taste like Rubik's Cube” is another harmless instance of 1200. If consumed, the subject will shrink and its body will deform into bizarre proportions. These effects do not damage the subject and no other physical changes aside from deformation seem to take place.
 
-![](https://imgur.com/tm85Sh3.png)
+![](../../images/SCP-1200-Rainbow-Effects.png)
 
 </details>
 
@@ -66,7 +66,7 @@ SCP 1200-29, also known as “Rainbow gum” is another harmless instance of 120
 
 <summary>SCP-1200-## "Unknown" [ Blue Gum ]</summary>
 
-![](https://imgur.com/qEsEZfE.png)
+![](../../images/SCP-1200-Blue.png)
 
 ```
 $ SCPF_NETWORK/PARAGON/DATABASE/SCP-1200-##
@@ -79,11 +79,11 @@ $ RESULT :: NO CURRENTLY KNOWN INFORMATION
 
 <summary>SCP-1200-46 "Taste like Ghost" [ Red Gum ]</summary>
 
-![](https://imgur.com/PYNQjBv.png)
+![](../../images/SCP-1200-Red.png)
 
 The red instance of SCP 1200 makes anyone who consumes it somewhat translucent (although to a point where the naked eye can see said subject). The effects don’t seem to wear down nor to damage the subject under the effects of said gum.
 
-![](https://imgur.com/JG6Cewf.png)
+![](../../images/SCP-1200-Red-Effects.png)
 
 </details>
 
@@ -91,11 +91,11 @@ The red instance of SCP 1200 makes anyone who consumes it somewhat translucent (
 
 <summary>SCP-1200-15 "Taste like Sunshine" [ Yellow Gum ]</summary>
 
-![](https://imgur.com/F7FVsby.png)
+![](../../images/SCP-1200-Yellow.png)
 
 The yellow gum is another instance of SCP 1200. Subjects who consume it start to emit intense white light, almost to a degree where the subject itself cannot be seen by other people staring at him. The gum’s effects seem to wear down if the red gum is consumed afterwards and do not damage the consumer.
 
-![](https://imgur.com/AmX2ytK.png)
+![](../../images/SCP-1200-Yellow-Effects.png)
 
 </details>
 
@@ -103,7 +103,7 @@ The yellow gum is another instance of SCP 1200. Subjects who consume it start to
 
 <summary>SCP-1200-## "Unknown" [ Green Gum ]</summary>
 
-![](https://imgur.com/C7zNMR7.png)
+![](../../images/SCP-1200-Green.png)
 
 ```
 $ SCPF_NETWORK/PARAGON/DATABASE/SCP-1200-##
@@ -111,15 +111,3 @@ $ RESULT :: NO CURRENTLY KNOWN INFORMATION
 ```
 
 </details>
-
-## Test Logs
-
-### [Test Log 01](https://docs.google.com/document/d/1BbYBYT7GgYXa3TdULKvKGCAAeYtKHy\_b9-uNX0na9fs/edit)
-
-### [Test Log 02](https://docs.google.com/document/d/1MmqkMokFfI7f\_ir0z1cwwk1YDgls9QmZ1a-lfxW7ygs/edit)
-
-### [Test Log 03](https://docs.google.com/document/d/1XbJAXqFRxthfynI96Hinkc-4IRQ5cDCvBAyIDmSaWDM/edit)
-
-### [Test Log 04](https://docs.google.com/document/d/1APfCjHiiPlHsvqMzcQyFgeZ2yfuVFzPinYRF43j9q-8/edit)
-
-### [Test Log 05](https://docs.google.com/document/d/1WTKWPczevXZ6-ri8keZk3mKD8hvt20cadtrtyjfzBQU/edit)
