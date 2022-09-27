@@ -21,7 +21,7 @@ style={{
 </span>
 );
 
-<Center><img src="../../images/SCP-9883.png"/></Center>
+<Center>![](../../images/SCP-9883.png)</Center>
 <Center>SCP-9883 "Ordinary Spectacles"</Center>
 
 <br />
