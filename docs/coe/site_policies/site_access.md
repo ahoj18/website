@@ -63,7 +63,7 @@ style={{
 - Foundation Personnel are not permitted to spectate activities while currently on a combative team. In-order to spectate, they must join a Civil Personnel team. 
 
 ### Ethics Committee
-- The Ethics Committee is permitted to spectate any and all activities on-site.
+- The Ethics Committee and Internal Security Department are permitted to spectate any and all activities on-site.
 - Committee Members do not apply towards the spectator limit. 
 
 ### Manufacturing Department

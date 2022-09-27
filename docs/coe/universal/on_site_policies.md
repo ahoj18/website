@@ -18,7 +18,7 @@ style={{
 
 
 :::tip Authoritative Bodies
-Authoritative bodies of the Foundation refer to the <Highlight color="#3d9c1a">Ethics Committee</Highlight>, <Highlight color="#7a7d80">Security Department</Highlight>, <Highlight color="#3269a8">Mobile Task Forces</Highlight> and their subdivisions.
+Authoritative bodies of the Foundation refer to the <Highlight color="#3d9c1a">Ethics Committee</Highlight>, <Highlight color="#291c37">Internal Security Department</Highlight>, <Highlight color="#7a7d80">Security Department</Highlight>, <Highlight color="#3269a8">Mobile Task Forces</Highlight> and their subdivisions.
 :::
 
 ## [2.1] Decorum - <Highlight color="#403f3d">Minor</Highlight> | <Highlight color="#c29429">Medium</Highlight> Infraction;
@@ -59,6 +59,7 @@ Authoritative bodies of the Foundation refer to the <Highlight color="#3d9c1a">E
   - Firing a round of the weapon outside of the circumstances described above. 
   - Brandishing, revealing, holding, or showing a firearm is prohibited. 
   - Pointing, threatening, brandishing, or using a weapon in the vicinity of SC-4+ - Will result in immediate termination and/or further consequences
+- [2.64] Members of the <Highlight color="#291c37">Internal Security Department</Highlight> are exempt from this section and must abide by their own department's guidelines.
 
 ## [2.7] Non-firearm general tools - <Highlight color="#403f3d">Minor Infraction</Highlight>;
 - [2.71] Tools can either be received through in-game perks, gampasses, or departments. All tools and items must be used as intended, and outlined in department handbooks and procedures. All tools, provided by purchased perks such as Foundation supporter or gampasses or departments, can and will be taken away if improper use occurs.
