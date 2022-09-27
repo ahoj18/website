@@ -21,7 +21,7 @@ style={{
 </span>
 );
 
-<Center><img src=".../images/SCP-005.png"/></Center>
+<Center><img src="../../../images/SCP-005.png"/></Center>
 <Center>SCP-005</Center>
 
 <br />
