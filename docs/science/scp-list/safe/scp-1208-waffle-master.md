@@ -21,7 +21,7 @@ style={{
 </span>
 );
 
-<Center><img src="https://lh5.googleusercontent.com/kNxR3gHz2WFVOeKDs0qgz-60Z14xIo_p_rWTz7MmK4v89Kk1W1rLpipR2UI4FSIzv4Olwvm_JxqFBmAXJzaxN5hC-XkvYfIvPuh89DR9PyJCyJpOsBMbI6zNbLzEfcJ0CCfg0fs1ieh_g-vVzNOZv_k"/></Center>
+<Center><img src=".../images/SCP-1208.png"/></Center>
 <Center>SCP-2398</Center>
 
 <br />

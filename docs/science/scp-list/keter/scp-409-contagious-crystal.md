@@ -21,16 +21,16 @@ style={{
 </span>
 );
 
-<Center><img src="https://lh3.googleusercontent.com/tagx2yYzi-ESUfqTkpLez2KhdiPHqnhjU3BqMoeVEIWV4pcohvRBe3GgLTLCqDbkKdCyMSNMS4RT_JvTqVSFHxmECK4BThRldhnv3yzbz8dz6gYTZZJ1ehpNbYSvd3IMTkUuMG0LKwlKFcZqp9Q0tPM"/></Center>
+<Center><img src=".../images/SCP-409.png"/></Center>
 <Center>SCP-409 Inner Containment Zone</Center>
 
 <br />
 
 :::info
-Testing Clearance: <TextColor color="#735cff">**Researcher**</TextColor> <br />
-Cross-Testing Clearance: <TextColor color="#735cff">**Researcher**</TextColor> <br />
-Maximum Class-D Allowed: <TextColor color="#FF6A00">**5**</TextColor> <br />
-Location: <TextColor color="#ffd139">**Medium Containment Zone**</TextColor> <br />
+Testing Clearance: <TextColor color="#735cff">**Senior Researcher**</TextColor> <br />
+Cross-Testing Clearance: <TextColor color="#735cff">**Senior Researcher**</TextColor> <br />
+Maximum Class-D Allowed: <TextColor color="#FF6A00">**10**</TextColor> <br />
+Location: <TextColor color="#D33D3D">**Heavy Containment Zone**</TextColor> <br />
 :::
 
 

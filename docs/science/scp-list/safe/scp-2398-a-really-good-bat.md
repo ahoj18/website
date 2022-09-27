@@ -21,7 +21,7 @@ style={{
 </span>
 );
 
-<Center><img src="https://351808389-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FXC5suL9zFRrzn7kDaLWe%2Fuploads%2Fx9JCfrFDRUzjZrmQ47hy%2Fimage.png?alt=media&token=1feaa21c-4917-4066-9565-760eb08296a0"/></Center>
+<Center><img src=".../images/SCP-2398.png"/></Center>
 <Center>SCP-2398</Center>
 
 <br />
@@ -30,7 +30,7 @@ style={{
 Testing Clearance: <TextColor color="#735cff">**Junior Researcher**</TextColor> <br />
 Cross-Testing Clearance: <TextColor color="#735cff">**Junior Researcher**</TextColor> <br />
 Maximum Class-D Allowed: <TextColor color="#FF6A00">**3**</TextColor> <br />
-Location: <TextColor color="#3161c1">**ScD Cleanrooms**</TextColor> <br />
+Location: <TextColor color="#3161c1">**ScD Cleanrooms - Chamber 07**</TextColor> <br />
 :::
 
 <br/>

@@ -21,7 +21,7 @@ style={{
 </span>
 );
 
-<Center><img src="https://lh5.googleusercontent.com/2XSE5E3hbE3ctCMnw-b3zBhdPVhsCfgbqCxlbDlCGhZSqGxD7Umf99YyOT64vGW02dlxbt6z-jVMAIQm0idqYuMnCQ1izRV1mwaheLVICgbbs4IiBJpuDXDSp-7RzOpSz1vp5xdBFVA_SjXoR75AvHk"/></Center>
+<Center><img src=".../images/SCP-008.png"/></Center>
 <Center>SCP-008 releasing gas</Center>
 
 <br />
@@ -57,8 +57,3 @@ SCP-008-3 will cause infected persons to become larger than the average human, a
 </TabItem>
 </Tabs>
 
-## Test Logs
-
-### [Test Log 01](https://docs.google.com/document/d/1eClJVqgAt1zq3wOvv99pt4C0t-VNlGbsm2PZVGNgWac/edit)
-
-### [Test Log 02](https://docs.google.com/document/d/15Xs2UClzry5cbGfr4fvmpcZgUNKjIyG\_Aj8oEpm4fXk/edit)

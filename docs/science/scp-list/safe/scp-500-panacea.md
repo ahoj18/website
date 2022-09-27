@@ -21,7 +21,7 @@ style={{
 </span>
 );
 
-<Center><img src="https://351808389-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FXC5suL9zFRrzn7kDaLWe%2Fuploads%2FZiRuhvlkJdjAfa4Fwigj%2Fimage.png?alt=media&token=80d868d7-742a-47ab-a8e9-fc8d05bc5224"/></Center>
+<Center><img src=".../images/SCP-500.png"/></Center>
 <Center>SCP-500 Bottle</Center>
 
 <br />
