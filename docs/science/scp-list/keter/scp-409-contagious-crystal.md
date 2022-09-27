@@ -21,7 +21,7 @@ style={{
 </span>
 );
 
-<Center>![](../../images/SCP-409.png)</Center>
+<Center><img src="../../images/SCP-409.png"></img></Center>
 <Center>SCP-409 Inner Containment Zone</Center>
 
 <br />

@@ -21,7 +21,7 @@ style={{
 </span>
 );
 
-<Center>![](../../images/SCP-005.png)</Center>
+<Center><img src="../../images/SCP-005.png"></img></Center>
 <Center>SCP-005</Center>
 
 <br />

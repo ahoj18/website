@@ -21,7 +21,7 @@ style={{
 </span>
 );
 
-<Center>![](../../images/SCP-131.png)</Center>
+<Center><img src="../../images/SCP-131.png"></img></Center>
 <Center>SCP-131 instances in the SL-4 Lobby relaxing</Center>
 
 <br />
