@@ -21,7 +21,7 @@ style={{
 </span>
 );
 
-<Center><img src="../../../images/SCP-662.png"/></Center>
+<Center><img src="../../images/SCP-662.png"/></Center>
 <Center>SCP-662, an engraved silver bell</Center>
 
 <br />

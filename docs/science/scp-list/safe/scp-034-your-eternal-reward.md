@@ -21,7 +21,7 @@ style={{
 </span>
 );
 
-<Center><img src="../../../images/SCP-034.png"/></Center>
+<Center><img src="../../images/SCP-034.png"/></Center>
 <Center>SCP-034 in the hands of a Class-D</Center>
 
 :::danger NOTICE

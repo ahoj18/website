@@ -21,7 +21,7 @@ style={{
 </span>
 );
 
-<Center><img src="../../../images/SCP-1200.gif"/></Center>
+<Center><img src="../../images/SCP-1200.gif"/></Center>
 <Center>SCP-1200 instances lined up on table</Center>
 
 <br />
@@ -41,7 +41,7 @@ Location: <TextColor color="#3161c1">**ScD Cleanrooms - Chamber 06**</TextColor>
 
 <summary>SCP-1200-## "Unknown" [ White Gum ]</summary>
 
-![](../../../images/SCP-1200-White.png)
+![](../../images/SCP-1200-White.png)
 
 ```
 $ SCPF_NETWORK/PARAGON/DATABASE/SCP-1200-##
@@ -54,11 +54,11 @@ $ RESULT :: NO CURRENTLY KNOWN INFORMATION
 
 <summary>SCP-1200-29 "Taste like Rubik's Cube" [ Rainbow Gum ]</summary>
 
-![](../../../images/SCP-1200-Rainbow.gif)
+![](../../images/SCP-1200-Rainbow.gif)
 
 SCP 1200-29, also known as “Taste like Rubik's Cube” is another harmless instance of 1200. If consumed, the subject will shrink and its body will deform into bizarre proportions. These effects do not damage the subject and no other physical changes aside from deformation seem to take place.
 
-![](../../../images/SCP-1200-Rainbow-Effects.png)
+![](../../images/SCP-1200-Rainbow-Effects.png)
 
 </details>
 
@@ -66,7 +66,7 @@ SCP 1200-29, also known as “Taste like Rubik's Cube” is another harmless ins
 
 <summary>SCP-1200-## "Unknown" [ Blue Gum ]</summary>
 
-![](../../../images/SCP-1200-Blue.png)
+![](../../images/SCP-1200-Blue.png)
 
 ```
 $ SCPF_NETWORK/PARAGON/DATABASE/SCP-1200-##
@@ -79,11 +79,11 @@ $ RESULT :: NO CURRENTLY KNOWN INFORMATION
 
 <summary>SCP-1200-46 "Taste like Ghost" [ Red Gum ]</summary>
 
-![](../../../images/SCP-1200-Red.png)
+![](../../images/SCP-1200-Red.png)
 
 The red instance of SCP 1200 makes anyone who consumes it somewhat translucent (although to a point where the naked eye can see said subject). The effects don’t seem to wear down nor to damage the subject under the effects of said gum.
 
-![](../../../images/SCP-1200-Red-Effects.png)
+![](../../images/SCP-1200-Red-Effects.png)
 
 </details>
 
@@ -91,11 +91,11 @@ The red instance of SCP 1200 makes anyone who consumes it somewhat translucent (
 
 <summary>SCP-1200-15 "Taste like Sunshine" [ Yellow Gum ]</summary>
 
-![](../../../images/SCP-1200-Yellow.png)
+![](../../images/SCP-1200-Yellow.png)
 
 The yellow gum is another instance of SCP 1200. Subjects who consume it start to emit intense white light, almost to a degree where the subject itself cannot be seen by other people staring at him. The gum’s effects seem to wear down if the red gum is consumed afterwards and do not damage the consumer.
 
-![](../../../images/SCP-1200-Yellow-Effects.png)
+![](../../images/SCP-1200-Yellow-Effects.png)
 
 </details>
 
@@ -103,7 +103,7 @@ The yellow gum is another instance of SCP 1200. Subjects who consume it start to
 
 <summary>SCP-1200-## "Unknown" [ Green Gum ]</summary>
 
-![](../../../images/SCP-1200-Green.png)
+![](../../images/SCP-1200-Green.png)
 
 ```
 $ SCPF_NETWORK/PARAGON/DATABASE/SCP-1200-##
