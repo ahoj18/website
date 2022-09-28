@@ -29,7 +29,7 @@ style={{
 <Center>SCP-662, an engraved silver bell</Center>
 
 :::danger NOTICE
-Under the orders of Facility Command, this anomaly is restricted from any experiemnts until further notice. Please check back at a later date.
+Under the orders of Facility Command, this anomaly is restricted from any experiments until further notice. Please check back at a later date.
 :::
 
 <br />
