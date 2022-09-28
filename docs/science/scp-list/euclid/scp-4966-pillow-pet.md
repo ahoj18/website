@@ -21,7 +21,11 @@ style={{
 </span>
 );
 
-<Center><img src="../../images/SCP-4966.png"></img></Center>
+<div style={{textAlign: 'center'}}>
+
+!image](../../images/SCP-4966.png)
+
+</div>
 <Center>SCP-4966 displaying a neutral face</Center>
 
 :::danger NOTICE
