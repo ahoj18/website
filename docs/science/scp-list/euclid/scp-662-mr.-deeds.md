@@ -23,7 +23,7 @@ style={{
 
 <div style={{textAlign: 'center'}}>
 
-!image](../../images/SCP-662.png)
+![image](../../images/SCP-662.png)
 
 </div>
 <Center>SCP-662, an engraved silver bell</Center>

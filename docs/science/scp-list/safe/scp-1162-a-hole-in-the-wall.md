@@ -23,7 +23,7 @@ style={{
 
 <div style={{textAlign: 'center'}}>
 
-!image](../../images/SCP-1162.png)
+![image](../../images/SCP-1162.png)
 
 </div>
 <Center>SCP-1162 with its arm retracted</Center>
