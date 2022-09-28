@@ -29,6 +29,7 @@ Medium Containment Zone/SL-6: 2 spectators<br />
 Heavy Containment Zone: 2 Spectators
 
 Spectators are defined as all Personnel Ranking Security Class-1+.<br />
+
 ** <TextColor color="#FFD139">Group Tests hosted by the Scienctific Department are exempt from this rule.</TextColor> **<br />
 For complete and detailed information please [<TextColor color="#91EABF">**view it here**</TextColor>](https://scpf.network/docs/coe/site\_policies/site\_access#security-class-1).
 
