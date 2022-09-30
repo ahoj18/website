@@ -21,11 +21,15 @@ style={{
 </span>
 );
 
-<Center><img src="../../images/SCP-4966.png"></img></Center>
+<div style={{textAlign: 'center'}}>
+
+![image](../../images/SCP-4966.png)
+
+</div>
 <Center>SCP-4966 displaying a neutral face</Center>
 
 :::danger NOTICE
-Under the orders of Facility Command, this anomaly is restricted from any experiemnts until further notice. Please check back at a later date.
+Under the orders of Facility Command, this anomaly is restricted from any experiments until further notice. Please check back at a later date.
 :::
 
 <br />

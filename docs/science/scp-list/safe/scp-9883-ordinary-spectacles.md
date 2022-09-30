@@ -21,7 +21,11 @@ style={{
 </span>
 );
 
-<Center><img src="../../images/SCP-9883.png"></img></Center>
+<div style={{textAlign: 'center'}}>
+
+![image](../../images/SCP-9883.png)
+
+</div>
 <Center>SCP-9883 "Ordinary Spectacles"</Center>
 
 <br />

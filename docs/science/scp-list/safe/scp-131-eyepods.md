@@ -21,7 +21,11 @@ style={{
 </span>
 );
 
-<Center><img src="../../images/SCP-131.png"></img></Center>
+<div style={{textAlign: 'center'}}>
+
+![image](../../images/SCP-131.png)
+
+</div>
 <Center>SCP-131 instances in the SL-4 Lobby relaxing</Center>
 
 <br />

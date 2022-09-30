@@ -21,7 +21,11 @@ style={{
 </span>
 );
 
-<Center><img src="../../iamges/SCP-1162_2.png"></img></Center>
+<div style={{textAlign: 'center'}}>
+
+![image](../../images/SCP-1162_2.png)
+
+</div>
 <Center>SCP-1162 with its arm retracted</Center>
 
 <br />

@@ -21,7 +21,11 @@ style={{
 </span>
 );
 
-<Center><img src="../../images/SCP-1068.png"></img></Center>
+<div style={{textAlign: 'center'}}>
+
+![image](../../images/SCP-1068.png)
+
+</div>
 <Center>SCP-1068 in the hands of a Class-D Subject</Center>
 
 <br />
