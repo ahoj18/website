@@ -26,6 +26,8 @@ style={{
 
 ![image](../../images/SCP-008.png)
 
+![image](../../images/ACS/LightMode/SCP-008LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-008DM.png#gh-dark-mode-only)
+
 </div>
 <Center>SCP-008 releasing gas</Center>
 

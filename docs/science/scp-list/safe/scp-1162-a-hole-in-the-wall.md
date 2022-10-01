@@ -25,6 +25,8 @@ style={{
 
 ![image](../../images/SCP-1162_2.png)
 
+![image](../../images/ACS/LightMode/SCP-1162LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-1162DM.png#gh-dark-mode-only)
+
 </div>
 <Center>SCP-1162 with its arm retracted</Center>
 

@@ -25,6 +25,8 @@ style={{
 
 ![image](../../images/SCP-4966.png)
 
+![image](../../images/ACS/LightMode/SCP-4966-PENDING-LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-4966-PENDING-DM.png#gh-dark-mode-only)
+
 </div>
 <Center>SCP-4966 displaying a neutral face</Center>
 

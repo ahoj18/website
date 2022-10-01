@@ -25,6 +25,8 @@ style={{
 
 ![image](../../images/SCP-005.png)
 
+![image](../../images/ACS/LightMode/SCP-005LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-005DM.png#gh-dark-mode-only)
+
 </div>
 <Center>SCP-005</Center>
 

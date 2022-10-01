@@ -25,6 +25,8 @@ style={{
 
 ![image](../../images/SCP-1208.png)
 
+![image](../../images/ACS/LightMode/SCP-1208LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-1208DM.png#gh-dark-mode-only)
+
 </div>
 <Center>SCP-1208</Center>
 

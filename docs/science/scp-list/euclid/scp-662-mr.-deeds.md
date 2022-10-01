@@ -25,6 +25,8 @@ style={{
 
 ![image](../../images/SCP-662.png)
 
+![image](../../images/ACS/LightMode/SCP-662-PENDING-LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-662-PENDING-DM.png#gh-dark-mode-only)
+
 </div>
 <Center>SCP-662, an engraved silver bell</Center>
 
