@@ -25,14 +25,16 @@ style={{
 
 ![image](../../images/SCP-1200.gif)
 
+![image](../../images/ACS/LightMode/SCP-1200LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-1200DM.png#gh-dark-mode-only)
+
 </div>
 <Center>SCP-1200 instances lined up on table</Center>
 
 <br />
 
 :::info
-Testing Clearance: <TextColor color="#735cff">**Assistant Researcher**</TextColor> <br />
-Cross-Testing Clearance: <TextColor color="#735cff">**Assistant Researcher**</TextColor> <br />
+Testing Clearance: <TextColor color="#735cff">**Junior Researcher**</TextColor> <br />
+Cross-Testing Clearance: <TextColor color="#735cff">**Junior Researcher**</TextColor> <br />
 Maximum Class-D Allowed: <TextColor color="#FF6A00">**7**</TextColor> <br />
 Location: <TextColor color="#3161c1">**ScD Cleanrooms - Chamber 06**</TextColor> <br />
 :::

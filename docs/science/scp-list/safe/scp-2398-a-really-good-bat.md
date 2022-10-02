@@ -25,14 +25,16 @@ style={{
 
 ![image](../../images/SCP-2398.png)
 
+![image](../../images/ACS/LightMode/SCP-2398LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-2398DM.png#gh-dark-mode-only)
+
 </div>
 <Center>SCP-2398</Center>
 
 <br />
 
 :::info
-Testing Clearance: <TextColor color="#735cff">**Junior Researcher**</TextColor> <br />
-Cross-Testing Clearance: <TextColor color="#735cff">**Junior Researcher**</TextColor> <br />
+Testing Clearance: <TextColor color="#735cff">**Researcher Researcher**</TextColor> <br />
+Cross-Testing Clearance: <TextColor color="#735cff">**Researcher Researcher**</TextColor> <br />
 Maximum Class-D Allowed: <TextColor color="#FF6A00">**3**</TextColor> <br />
 Location: <TextColor color="#3161c1">**ScD Cleanrooms - Chamber 07**</TextColor> <br />
 :::

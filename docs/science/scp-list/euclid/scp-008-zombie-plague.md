@@ -26,14 +26,16 @@ style={{
 
 ![image](../../images/SCP-008.png)
 
+![image](../../images/ACS/LightMode/SCP-008LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-008DM.png#gh-dark-mode-only)
+
 </div>
 <Center>SCP-008 releasing gas</Center>
 
 <br />
 
 :::info
-Testing Clearance: <TextColor color="#735cff">**Junior Researcher**</TextColor> <br />
-Cross-Testing Clearance: <TextColor color="#735cff">**Researcher**</TextColor> <br />
+Testing Clearance: <TextColor color="#735cff">**Researcher**</TextColor> <br />
+Cross-Testing Clearance: <TextColor color="#735cff">**Senior Researcher**</TextColor> <br />
 Maximum Class-D Allowed: <TextColor color="#FF6A00">**5**</TextColor> <br />
 Location: <TextColor color="#ffd139">**Medium Containment Zone**</TextColor> <br />
 :::

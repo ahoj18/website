@@ -25,6 +25,8 @@ style={{
 
 ![image](../../images/SCP-034.png)
 
+![image](../../images/ACS/LightMode/SCP-034LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-034DM.png#gh-dark-mode-only)
+
 </div>
 <Center>SCP-034 in the hands of a Class-D</Center>
 
@@ -35,8 +37,8 @@ Under the orders of Facility Command, this anomaly is restricted from any experi
 <br />
 
 :::info
-Testing Clearance: <TextColor color="#735cff">**Assistant Researcher**</TextColor> <br />
-Cross-Testing Clearance: <TextColor color="#735cff">**Assistant Researcher**</TextColor> <br />
+Testing Clearance: <TextColor color="#735cff">**Junior Researcher**</TextColor> <br />
+Cross-Testing Clearance: <TextColor color="#735cff">**Junior Researcher**</TextColor> <br />
 Maximum Class-D Allowed: <TextColor color="#FF6A00">**7**</TextColor> <br />
 Location: <TextColor color="#3161c1">**ScD Cleanrooms**</TextColor> <br />
 :::

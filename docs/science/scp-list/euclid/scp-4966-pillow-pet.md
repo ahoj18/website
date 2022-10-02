@@ -25,6 +25,8 @@ style={{
 
 ![image](../../images/SCP-4966.png)
 
+![image](../../images/ACS/LightMode/SCP-4966-PENDING-LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-4966-PENDING-DM.png#gh-dark-mode-only)
+
 </div>
 <Center>SCP-4966 displaying a neutral face</Center>
 
@@ -35,8 +37,8 @@ Under the orders of Facility Command, this anomaly is restricted from any experi
 <br />
 
 :::info
-Testing Clearance: <TextColor color="#735cff">**Junior Researcher**</TextColor> <br />
-Cross-Testing Clearance: <TextColor color="#735cff">**Junior Researcher**</TextColor> <br />
+Testing Clearance: <TextColor color="#735cff">**Researcher**</TextColor> <br />
+Cross-Testing Clearance: <TextColor color="#735cff">**Senior Researcher**</TextColor> <br />
 Maximum Class-D Allowed: <TextColor color="#FF6A00">**7**</TextColor> <br />
 Location: <TextColor color="#3161c1">**ScD Cleanrooms**</TextColor> <br />
 :::
