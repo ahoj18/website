@@ -30,10 +30,6 @@ style={{
 </div>
 <Center>SCP-1208</Center>
 
-:::danger NOTICE
-Under the orders of Facility Command, this anomaly is restricted from any experiments until further notice. Please check back at a later date.
-:::
-
 <br />
 
 :::info
