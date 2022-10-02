@@ -33,8 +33,8 @@ style={{
 <br />
 
 :::info
-Testing Clearance: <TextColor color="#735cff">**Researcher Researcher**</TextColor> <br />
-Cross-Testing Clearance: <TextColor color="#735cff">**Researcher Researcher**</TextColor> <br />
+Testing Clearance: <TextColor color="#735cff">**Researcher**</TextColor> <br />
+Cross-Testing Clearance: <TextColor color="#735cff">**Researcher**</TextColor> <br />
 Maximum Class-D Allowed: <TextColor color="#FF6A00">**3**</TextColor> <br />
 Location: <TextColor color="#3161c1">**ScD Cleanrooms - Chamber 07**</TextColor> <br />
 :::
