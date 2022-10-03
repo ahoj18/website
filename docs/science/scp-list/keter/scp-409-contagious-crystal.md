@@ -28,7 +28,6 @@ style={{
 ![image](../../images/ACS/LightMode/SCP-409LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-409DM.png#gh-dark-mode-only)
 
 </div>
-<Center>SCP-409 Inner Containment Zone</Center>
 
 <br />
 

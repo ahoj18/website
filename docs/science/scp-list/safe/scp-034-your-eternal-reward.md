@@ -28,7 +28,6 @@ style={{
 ![image](../../images/ACS/LightMode/SCP-034LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-034DM.png#gh-dark-mode-only)
 
 </div>
-<Center>SCP-034 in the hands of a Class-D</Center>
 
 :::danger NOTICE
 Under the orders of Facility Command, this anomaly is restricted from any experiments until further notice. Please check back at a later date.

@@ -28,7 +28,6 @@ style={{
 ![image](../../images/ACS/LightMode/SCP-1068LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-1068DM.png#gh-dark-mode-only)
 
 </div>
-<Center>SCP-1068 in the hands of a Class-D Subject</Center>
 
 <br />
 

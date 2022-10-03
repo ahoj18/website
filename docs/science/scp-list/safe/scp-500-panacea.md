@@ -28,7 +28,6 @@ style={{
 ![image](../../images/ACS/LightMode/SCP-500LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-500DM.png#gh-dark-mode-only)
 
 </div>
-<Center>SCP-500 Bottle</Center>
 
 <br />
 
