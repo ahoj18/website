@@ -18,15 +18,17 @@ The Chain of Command is a very important aspect of the Scientific Department. Ea
 
 ## Research Director <Highlight color="#a51b20">SC-4</Highlight> _(Max 1)_
 
-## Research Supervisor <Highlight color="#5197dd">SC-3</Highlight> _(Max 3)_
+## Research Manager <Highlight color="#5197dd">SC-3</Highlight> _(Max 3)_
 
-## Lead Researcher <Highlight color="#3e8c48">SC-2</Highlight> _(Max 4)_
+## Board of Researcher <Highlight color="#3e8c48">SC-2</Highlight> _(Max 4)_
 
-## Senior Researcher <Highlight color="#3e8c48">SC-2</Highlight> _(Max 20)_
+## Research Instructor <Highlight color="#3e8c48">SC-2</Highlight> _(Max 20)_
+
+## Senior Researcher <Highlight color="#5dcd6b">SC-1</Highlight>
 
 ## Researcher <Highlight color="#5dcd6b">SC-1</Highlight>
 
-## Assistant Researcher <Highlight color="#5dcd6b">SC-1</Highlight>
+## Junior Researcher <Highlight color="#5dcd6b">SC-1</Highlight>
 
-## Intern <Highlight color="#5dcd6b">SC-1</Highlight>
+## Entrant <Highlight color="#5dcd6b">SC-1</Highlight>
 

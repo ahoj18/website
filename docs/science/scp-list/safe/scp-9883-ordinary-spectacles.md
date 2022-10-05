@@ -28,7 +28,6 @@ style={{
 ![image](../../images/ACS/LightMode/SCP-9883LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-9883DM.png#gh-dark-mode-only)
 
 </div>
-<Center>SCP-9883 "Ordinary Spectacles"</Center>
 
 <br />
 

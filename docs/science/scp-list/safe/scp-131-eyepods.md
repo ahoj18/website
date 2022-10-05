@@ -28,7 +28,6 @@ style={{
 ![image](../../images/ACS/LightMode/SCP-131LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-131DM.png#gh-dark-mode-only)
 
 </div>
-<Center>SCP-131 instances in the SL-4 Lobby relaxing</Center>
 
 <br />
 

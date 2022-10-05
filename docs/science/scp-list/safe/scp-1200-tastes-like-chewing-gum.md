@@ -28,7 +28,6 @@ style={{
 ![image](../../images/ACS/LightMode/SCP-1200LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-1200DM.png#gh-dark-mode-only)
 
 </div>
-<Center>SCP-1200 instances lined up on table</Center>
 
 <br />
 

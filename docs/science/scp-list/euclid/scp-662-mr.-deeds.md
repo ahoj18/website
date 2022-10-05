@@ -28,7 +28,6 @@ style={{
 ![image](../../images/ACS/LightMode/SCP-662-PENDING-LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-662-PENDING-DM.png#gh-dark-mode-only)
 
 </div>
-<Center>SCP-662, an engraved silver bell</Center>
 
 :::danger NOTICE
 Under the orders of Facility Command, this anomaly is restricted from any experiments until further notice. Please check back at a later date.

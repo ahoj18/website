@@ -28,7 +28,6 @@ style={{
 ![image](../../images/ACS/LightMode/SCP-2398LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-2398DM.png#gh-dark-mode-only)
 
 </div>
-<Center>SCP-2398</Center>
 
 <br />
 
