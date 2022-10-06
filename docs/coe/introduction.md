@@ -21,12 +21,12 @@ The Code of Ethics is the highest authoritative document which holds both inform
 ---
 
 :::info Notice
-*By accessing or utilizing our services (Terminal, Discord Services, Games) you willingly consent to the possibility of your messages, command usage, voice chats and activity being recorded for statistics, disciplinary or user experience purposes.*
+*By accessing or utilizing our services (Terminal, Discord Services, Games) you willingly consent to the possibility of your messages, command usage, voice chats, and activity being recorded for statistics, disciplinary, or user experience purposes.*
 :::
 
 :::info
 Only the following groups are exempt from the Code of Ethics; <Highlight color="#686868">**Founders**</Highlight>, and <Highlight color="#070707">**O5 Council**</Highlight>
 
-*Though while these groups are* ***exempt*** *from the Code of Ethics, excessive misbehavior should be reported to individual's superiors.* ***Reports of misbehavior will be handled on a case-by-case basis.***
+*Though while these groups are* ***exempt*** *from the Code of Ethics, excessive misbehavior should be reported to the individual's superiors.* ***Reports of misbehavior will be handled on a case-by-case basis.***
 :::
 
