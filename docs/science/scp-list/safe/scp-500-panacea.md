@@ -28,13 +28,12 @@ style={{
 ![image](../../images/ACS/LightMode/SCP-500LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-500DM.png#gh-dark-mode-only)
 
 </div>
-<Center>SCP-500 Bottle</Center>
 
 <br />
 
 :::info
 Testing Clearance: <TextColor color="#735cff">**Junior Researcher**</TextColor> <br />
-Cross-Testing Clearance: <TextColor color="#735cff">**Researcher**</TextColor> <br />
+Cross-Testing Clearance: <TextColor color="#735cff">**Junior Researcher**</TextColor> <br />
 Maximum Class-D Allowed: <TextColor color="#FF6A00">**7**</TextColor> <br />
 Location: <TextColor color="#3161c1">**ScD Cleanrooms**</TextColor> <br />
 :::

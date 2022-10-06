@@ -28,13 +28,12 @@ style={{
 ![image](../../images/ACS/LightMode/SCP-1068LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-1068DM.png#gh-dark-mode-only)
 
 </div>
-<Center>SCP-1068 in the hands of a Class-D Subject</Center>
 
 <br />
 
 :::info
 Testing Clearance: <TextColor color="#735cff">**Junior Researcher**</TextColor> <br />
-Cross-Testing Clearance: <TextColor color="#735cff">**JuniorResearcher**</TextColor> <br />
+Cross-Testing Clearance: <TextColor color="#735cff">**Junior Researcher**</TextColor> <br />
 Maximum Class-D Allowed: <TextColor color="#FF6A00">**7**</TextColor> <br />
 Location: <TextColor color="#3161c1">**ScD Cleanrooms**</TextColor> <br />
 :::

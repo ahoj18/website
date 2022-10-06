@@ -28,7 +28,6 @@ style={{
 ![image](../../images/ACS/LightMode/SCP-662-PENDING-LM.png#gh-light-mode-only)![image](../../images/ACS/DarkMode/SCP-662-PENDING-DM.png#gh-dark-mode-only)
 
 </div>
-<Center>SCP-662, an engraved silver bell</Center>
 
 :::danger NOTICE
 Under the orders of Facility Command, this anomaly is restricted from any experiments until further notice. Please check back at a later date.
@@ -44,7 +43,7 @@ Location: <TextColor color="#3161c1">**Cleanrooms**</TextColor> <br />
 :::
 
 
-**SCP-662, also known as "Mr. Deeds"**, is a standard silver bell with intricate engravings. As it is made of very pure silver, it requires regular polishing to remain without tarnish.
+**SCP-662, also known as "Mr. Deeds"**, is a standard silver bell with intricate engravings. As it is made of very pure silver, it requires regular polishing to prevent tarnish.
 
 ```
 $ SCPF_NETWORK/PARAGON/DATABASE/SCP-662
