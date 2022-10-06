@@ -17,6 +17,11 @@ style={{
 );
 
 # Sublevel permissions
+### Sublevel-3: 
+- Sublevel-3 contains three primary locations, Mobile Task Forces offices/armory, Entrance Zone, and the Heavy Containment Zone. 
+- Foundation personnel are permitted to be on Sublevel-3, but are not permitted past than the Heavy Containment Zone sphere checkpoint, or within the MTF armory. 
+  - Combative Department personnel are to refer to their department handbooks regarding their containment sphere access and permissions.
+  - Foundation Personnel are permitted to pass the HCZ checkpoint with a Combative escort when conducting official tasks, business, or jobs while on their divisional/departmental team (e.g., Hosting Scientific Department tests).
 
 ### Sublevel-4:
 - Sublevel-4 is designed for most civil access for foundation personnel to operate around with. It being the civil sector of the Foundation will act as a safe environment for what is conducted upon this floor.
@@ -26,7 +31,8 @@ style={{
   - Personnel may not use provided gear inappropriately in regards to its true purpose.
 
 ### Sublevel-5: 
-- Sublevel-5 designed in majority to contain Class - D personnel from the rest of the Foundation. Class - D personnel found outside of the CDC zone of Sublevel-5 without proper escorting units are to be terminated by combative personnel. If Class - D engage on civil personnel, the civil personnel have the right to act in self defense.
+- Sublevel-5 is primarily used to house the Class-D Containment Zone. This sublevel is open to civil Foundation personnel, but they must remain within the permitted rooms, and can not enter the CDCZ. 
+- The CDCZ restricted zone is marked by a yellow and black chevron line (Located next to the staircase that precedes CDCZ-OBS), non-authorized personnel found crossing this line will be detained by Combative personnel, and reprimanded by the Ethics Committee. 
 
 ### Sublevel-6: 
 - Sublevel-6, designed to contain all SCP anomalies with-in the facility, is the most secured floor from them all. Sublevel-6 can be accessed by Foundation personnel, up until Sector 3 (containment sphere entrance). Only combative personnel may pass the security checkpoint with reasonable intent.
@@ -41,15 +47,15 @@ style={{
 # Activity Spectating Permissions
 
 ### Security Class 1
-- Security Class 1 is the first rank that is permitted to spectate activities on site. These personnel are limited to spectating Scientific Department activities in the [Light Containment zone], and [moderate containment zone]; 
-- Activities in the [Light Containment Zone] are limited to hosting 3 spectators.
-- Activities in the [moderate Containment Zone] are limited to hosting 2 spectators. 
-- Spectators require permission from the activity host in-order to spectate.
+- Security Class 1 is the first rank that is permitted to spectate activities on-site. These personnel are limited to spectating Scientific Department activities in the Clean Rooms and Sublevel-6 Moderate Containment Zone; 
+- Activities in the Clean Rooms are limited to hosting 3 spectators.
+- Activities in the Moderate Containment Zone are limited to hosting 2 spectators. 
+- Security Class-1 personnel require permission from the activity host to spectate.
 
 ### Security Class 2
-- Security Class 2 are permitted to spectate Scientific Department activities in the [light containment zone], [moderate containment zone], and [Heavy Containment zone].
-- Activities in the [Heavy Containment zone] are limited to hosting 2 spectators.
-- Spectators require permission from the activity host in-order to spectate. 
+- Security Class 2 personnel are permitted to spectate Scientific Department activities in the Clean Rooms, Sublevel-6 Moderate Containment Zone, and Sublevel-3 Heavy Containment Zone.
+- Activities in the Heavy Containment Zone are limited to hosting 2 spectators.
+- Security Class-2 personnel require permission from the activity host to spectate. 
 
 ### Security Class 3
 - Security Class 3 holds the same spectate permissions as the Clearance Classes above. 
@@ -63,8 +69,8 @@ style={{
 - Foundation Personnel are not permitted to spectate activities while currently on a combative team. In-order to spectate, they must join a Civil Personnel team. 
 
 ### Ethics Committee
-- The Ethics Committee and Internal Security Department are permitted to spectate any and all activities on-site.
-- Committee Members do not apply towards the spectator limit. 
+- The Ethics Committee and Internal Security Department are permitted to spectate any activities on-site.
+- Committee officers do not apply toward the spectator limit. 
 
 ### Manufacturing Department
 - Foundation Personnel when on the manufacturing team are permitted to spectate any activity on-site.

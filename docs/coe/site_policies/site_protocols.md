@@ -33,7 +33,7 @@ The Normal Activities Protocol is the facility's neutral status that is in effec
 - Tier II
   - Tier II riots will be announced when the Class-D Containment zone has been lost, and the Security Response Unit has arrived and are assisting security personnel. Civil Department Personnel, and Foundation Personnel are not permitted to remain on Sublevel-5.
 - Tier III
-  - Tier II riots are announced when the riot has spread across multiple Sublevels and is no longer contained on Sublevel-5. The Security Department will cancel any on-going site activities and escort all parties of the activity; host, spectators, and Class-D, to Sublevel-4. 
+  - Tier III riots are announced when the riot has spread across multiple Sublevels and is no longer contained on Sublevel-5. The Security Department will cancel any on-going site activities and escort all parties of the activity; host, spectators, and Class-D, to Sublevel-4. 
 
 ## Lethal gas
 This protocol is used as a last resort if a Tier III riot has been prolonged for 20+ minutes. Personnel are to equip themselves with the publicly provided gas masks and are to remain on Sublevel-4 behind the blast door.
