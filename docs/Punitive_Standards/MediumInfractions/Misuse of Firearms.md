@@ -23,7 +23,7 @@ Relevant Code of Ethics Section:<Highlight color="#18A304">**2.6**</Highlight>(F
 
 Medium infraction level for misuse of firearms describes the unauthorized shooting by Foundation Personnel on other Personnel ranked SC-0, SC-1, SC-2. When deciding on a reprimand, consider the following; # of previous infractions of this type, type of weapon that was used (Department tool, gamepass, etc), how did the infraction happen, how does the victim feel, time frame between infractions of this type.
 
-:warning Standard Punishment
+:::warning Standard Punishment
 **1st Offense:** Written warning <br />
 **2nd Offense:** 72-168 Hour Suspension <br />
 **3rd+ Offense:** Foundation Exile
