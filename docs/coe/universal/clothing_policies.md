@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: 1.0 Clothing Policies
+title: 1.0 Clothing Policies [NOT ENFORCED FOR MONTH OF OCTOBER]
 ---
 
 export const Highlight = ({children, color}) => (
@@ -15,6 +15,9 @@ style={{
 </span>
 );
 
+:::info NOTICE
+This section of the Code of Ethics will not be enforced for the duration of the month of October.
+:::
 
 ## [1.1] Character Hats - Minor Infraction;
 - [1.11] All hats and accessories must be time-period, as well as genre specific. (No wings, oversized hats, etc)
