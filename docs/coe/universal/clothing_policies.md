@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: 1.0 Clothing Policies [NOT ENFORCED FOR MONTH OF OCTOBER]
+title: 1.0 Clothing Policies
 ---
 
 export const Highlight = ({children, color}) => (
