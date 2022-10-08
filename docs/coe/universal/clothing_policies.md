@@ -14,7 +14,8 @@ style={{
 {children}
 </span>
 );
-:::info NOTE 
+
+:::info NOTICE
 This section of the Code of Ethics will not be enforced for the duration of the month of October.
 :::
 
