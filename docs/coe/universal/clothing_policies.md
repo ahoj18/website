@@ -17,6 +17,7 @@ style={{
 
 :::info NOTICE
 This section of the Code of Ethics will not be enforced for the duration of the month of October.
+The exclusion of this section applies to Section 1.1 and all it's subsections, and Section 1.2 and MOST subsections. <Highlight color="#EC2A0C">Section 1.22 remains in effect</Highlight>.
 :::
 
 ## [1.1] Character Hats - Minor Infraction;
