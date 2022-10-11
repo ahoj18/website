@@ -40,14 +40,14 @@ Authoritative bodies of the Foundation refer to the <Highlight color="#3d9c1a">E
 
 ## [2.4] SCP Interaction - <Highlight color="#c29429">Medium Infraction</Highlight>;
 - [2.41] Members of the Foundation when interacting with sentient SCPs must remain respectful and kind. Intentionally angering an SCP will be classified as rogue misconduct. 
- - [2.41.1] Shooting or punching at hostile or non-hostile SCPs outside of official duties or activities is prohibited.
+  - [2.41.1] Shooting or punching at hostile or non-hostile SCPs outside of official duties or activities is prohibited.
 - [2.42] Members of the Foundation are not permitted to interact with infectious SCPs, this includes;
- - [2.42.1] Intentionally interacting/walking into an infectious SCP or SCP instance to get infected.
+  - [2.42.1] Intentionally interacting/walking into an infectious SCP or SCP instance to get infected.
 - [2.43] When infected with an SCP virus/infection, members of the Foundation are permitted to work to spread the infection (Once already infected from circumstances that do not violate code 2.42).
- - [2.43.1] When infected with an SCP virus/infection, members of the Foundation are not permitted to spread the infection/virus into team spawn.
+  - [2.43.1] When infected with an SCP virus/infection, members of the Foundation are not permitted to spread the infection/virus into team spawn.
 - [2.44] Members of the Foundation are prohibited from engaging/interacting with SCPs in unauthorized ways;
- - [2.44.1] Self-testing or testing on members of the Foundation.
- - [2.44.2] Moving, transporting, picking up, and carrying, SCP objects, containers, or crates outside of authorized Department duties.
+  - [2.44.1] Self-testing or testing on members of the Foundation.
+  - [2.44.2] Moving, transporting, picking up, and carrying, SCP objects, containers, or crates outside of authorized Department duties.
 
 ## [2.5] Trespassing - <Highlight color="#403f3d">Minor</Highlight> | <Highlight color="#c29429">Medium Infraction</Highlight>;
 - [2.51] Foundation Personnel regardless of rank are only allowed in areas where their respective keycard allows them. 
