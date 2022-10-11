@@ -40,7 +40,7 @@ Authoritative bodies of the Foundation refer to the <Highlight color="#3d9c1a">E
 
 ## [2.4] SCP Interaction - <Highlight color="#c29429">Medium Infraction</Highlight>;
 - [2.41] Members of the Foundation when interacting with sentient SCPs must remain respectful and kind. Intentionally angering an SCP will be classified as rogue misconduct. 
- - [2.41.1] Shooting at hostile or non-hostile SCPs outside of official duties or activities is prohibited.
+ - [2.41.1] Shooting or punching at hostile or non-hostile SCPs outside of official duties or activities is prohibited.
 - [2.42] Members of the Foundation are not permitted to interact with infectious SCPs, this includes;
  - [2.42.1] Intentionally interacting/walking into an infectious SCP or SCP instance to get infected.
 - [2.43] When infected with an SCP virus/infection, members of the Foundation are permitted to work to spread the infection (Once already infected from circumstances that do not violate code 2.42).
