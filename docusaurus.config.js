@@ -58,12 +58,6 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'Punitive_Standards/introduction',
-            position: 'left',
-            label: 'Punitive Standards',
-          },
-          {
-            type: 'doc',
             docId: 'departments/introduction',
             position: 'left',
             label: 'Departments',
@@ -100,7 +94,7 @@ const config = {
       announcementBar: {
         id: 'announce_bar',
         content:
-          'The Code of Ethics is subject to change at any time. Changes will be announced in the main communications server.',
+          'The Code of Ethics is subject to change at any time. Major changes will be announced in the main communications server.',
         backgroundColor: '#0000001a',
         textColor: '#5f98c0',
         isCloseable: true,
