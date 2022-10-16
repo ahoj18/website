@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'SCP-F | Network',
   tagline: 'SCP Foundation Network | An Internal Network',
-  url: '/',
+  url: 'https://ahoj18.github.io',
   baseUrl: '/website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
