@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'SCP-F | Network',
   tagline: 'SCP Foundation Network | An Internal Network',
-  url: 'https://scpf.network/',
-  baseUrl: '/',
+  url: '/',
+  baseUrl: '/website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'SCP-F', // Usually your GitHub org/user name.
-  projectName: 'Network', // Usually your repo name.
+  organizationName: 'ahoj18', // Usually your GitHub org/user name.
+  projectName: 'website', // Usually your repo name.
   trailingSlash: false,
 
   presets: [
@@ -25,13 +25,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/SCP-F/Network/tree/main/',
+          editUrl: 'https://github.com/ahoj18/website/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/SCP-F/Network/tree/main/',
+            'https://github.com/ahoj18/website/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
